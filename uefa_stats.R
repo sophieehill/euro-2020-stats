@@ -32,7 +32,8 @@ datx <- datx %>% select(player, country2, club, position, age,
                         distance_covered_km, top_speed_km_h,
                         passes_total, pass_accuracy, 
                         tackles, blocks, balls_recovered, clearances_completed,
-                        fouls_committed, fouls_suffered)
+                        fouls_committed, fouls_suffered,
+                        saves, punches_made, clean_sheets)
 
 table(datx$country2)
 head(datx)
@@ -59,7 +60,10 @@ d <- datatable(datx,
                             "Balls recovered" = "balls_recovered",
                             "Clearances" = "clearances_completed",
                             "Fouls committed" = "fouls_committed",
-                            "Fouls suffered" = "fouls_suffered"),
+                            "Fouls suffered" = "fouls_suffered",
+                            "Saves" = "saves",
+                            "Punches made" = "punches_made",
+                            "Clean sheets" = "clean_sheets"),
           #font = "Helvetica",
           #style = "bootstrap",
           class = 'hover compact stripe',
@@ -72,7 +76,7 @@ d <- datatable(datx,
           options = list(dom = 'Btip',
                          pageLength = 30,
                          buttons = list(list(extend = "colvis",
-                                             columns = c(6:19),
+                                             columns = c(6:22),
                                              text="Select stats"),
                                         list(
                                           extend = "searchPanes",
@@ -92,9 +96,9 @@ d <- datatable(datx,
                            list(width = "15px", targets=c(0,5)),
                            list(width = "200px", targets=c(1)),
                            list(width = "100px", targets=c(2:4)),
-                           list(width = "15px", targets=c(7:19)),
-                           list(visible = FALSE, targets=c(7:9,10:11,14:19)),
-                           list(searchPanes = list(show = FALSE), targets = c(1,5:19)), 
+                           list(width = "15px", targets=c(7:22)),
+                           list(visible = FALSE, targets=c(7:9,10:11,14:22)),
+                           list(searchPanes = list(show = FALSE), targets = c(1,5:22)), 
                            # list(searchPanes = list(show = FALSE), targets = 0:5),
                            list(searchPanes = list(show = TRUE, controls=TRUE), targets = c(2,3,4))
                          ))) %>% 
@@ -104,9 +108,9 @@ d <- datatable(datx,
 
 
 d
-colors <- colorRampPalette(brewer.pal(min(sum(num),9), "Pastel1"))(14)
+colors <- colorRampPalette(brewer.pal(9, "Pastel1"))(17)
 
-for (i in 6:19){
+for (i in 6:22){
     #If numeric add to the datatabls
     d <- d %>%
       formatStyle(c(i),
