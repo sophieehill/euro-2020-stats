@@ -130,6 +130,26 @@ temp <- d %>% htmlwidgets::prependContent(
 )
 
 temp <- temp %>% htmlwidgets::prependContent(
+  htmltools::tags$head(HTML('<!-- Primary Meta Tags -->
+<title>EURO 2020 Player Stats</title>
+<meta name="title" content="EURO 2020 Player Stats">
+<meta name="description" content="Creating an interactive table of EURO 2020 player stats">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.sophie-e-hill.com/files/euro-2020-stats.html">
+<meta property="og:title" content="EURO 2020 Player Stats">
+<meta property="og:description" content="Creating an interactive table of EURO 2020 player stats">
+<meta property="og:image" content="https://sophie-e-hill.com/img/euros_meta.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://www.sophie-e-hill.com/files/euro-2020-stats.html">
+<meta property="twitter:title" content="EURO 2020 Player Stats">
+<meta property="twitter:description" content="Creating an interactive table of EURO 2020 player stats">
+<meta property="twitter:image" content="https://sophie-e-hill.com/img/euros_meta.png">')))
+
+temp <- temp %>% htmlwidgets::prependContent(
   HTML(
     "<body><h1 style = 'font-family: Helvetica;'>EURO 2020 Player Stats</h1></body>"
   ))
