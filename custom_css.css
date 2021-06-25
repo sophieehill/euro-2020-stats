@@ -1,0 +1,26 @@
+table.dataTable {
+  font-family: Arial, Helvetica, sans-serif !important;
+
+}
+
+table.dataTable thead th {
+  text-align: left !important;
+}
+
+.dataTables_wrapper {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.htmlwidget_container {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.dataTables_wrapper .dt-buttons {
+  float:none;  
+  text-align: left;
+}
+
+.h1 {
+  font-size: 200%;
+  font-weight; normal;
+}
