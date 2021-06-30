@@ -89,391 +89,402 @@
 "88","Domenico Berardi","Italy","Sassuolo","Forward","26","3","239",NA,"4",NA,NA,NA,NA,"0","0","73","99","0",NA,NA,NA,NA,"31.5",NA,"10","2","0","3"
 "89","Ciro Immobile","Italy","Lazio","Forward","31","3","255",NA,"3",NA,NA,NA,NA,"0","0","62","78","2",NA,NA,NA,NA,"31.7",NA,"13","1","3","2"
 "90","Giacomo Raspadori","Italy","Sassuolo","Forward","21","1","15",NA,"1",NA,NA,NA,NA,"0","0","3","5","0",NA,NA,NA,NA,"25.2",NA,"1","0","0","0"
-"91","Daniel Bachmann","Austria","Watford","Goalkeeper","26","4","390","8","0","5","15","2","1","1","0","120","153",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"92","Andreas Ulmer","Austria","Salzburg","Defender","35","2","180",NA,"0",NA,NA,NA,NA,"0","0","59","81","0","0","4","2","1","30.4","20.7",NA,NA,NA,NA
-"93","Aleksandar Dragović","Austria","Leverkusen","Defender","30","4","339",NA,"5",NA,NA,NA,NA,"1","0","214","241","0","6","27","10","5","29.7","34.1",NA,NA,NA,NA
-"94","Martin Hinteregger","Austria","Frankfurt","Defender","28","4","390",NA,"7",NA,NA,NA,NA,"1","0","238","276","0","9","32","8","3","32.4","40.5",NA,NA,NA,NA
-"95","David Alaba","Austria","Bayern","Defender","29","4","390",NA,"3",NA,NA,NA,NA,"1","0","261","322","0","5","25","11","0","30.6","43.4",NA,NA,NA,NA
-"96","Philipp Lienhart","Austria","Freiburg","Defender","24","2","51",NA,"0",NA,NA,NA,NA,"0","0","37","43","0","0","2","0","0","27","6.7",NA,NA,NA,NA
-"97","Stefan Lainer","Austria","Mönchengladbach","Defender","28","4","384",NA,"3",NA,NA,NA,NA,"1","0","137","194","1","14","27","15","1","31.7","44.9",NA,NA,NA,NA
-"98","Stefan Ilsanker","Austria","Frankfurt","Midfielder","32","3","25",NA,"1",NA,NA,NA,NA,"0","0","13","16","0","1","4",NA,NA,"31","3.7","0","0",NA,NA
-"99","Marcel Sabitzer","Austria","Leipzig","Midfielder","27","4","390",NA,"7",NA,NA,NA,NA,"0","0","205","235","0","6","15",NA,NA,"31.5","48.7","12","1",NA,NA
-"100","Florian Grillitsch","Austria","Hoffenheim","Midfielder","25","3","224",NA,"2",NA,NA,NA,NA,"0","0","153","172","0","8","14",NA,NA,"28.8","27.8","1","0",NA,NA
-"101","Julian Baumgartlinger","Austria","Leverkusen","Midfielder","33","1","1",NA,"0",NA,NA,NA,NA,"0","0","2","2","0","0","0",NA,NA,"15.7","0.3","0","0",NA,NA
-"102","Christopher Trimmel","Austria","Union Berlin","Midfielder","34","1","6",NA,"0",NA,NA,NA,NA,"0","0","3","3","0","0","2",NA,NA,"28.6","1","0","0",NA,NA
-"103","Louis Schaub","Austria","Luzern","Midfielder","26","1","15",NA,"0",NA,NA,NA,NA,"0","0","5","7","0","0","0",NA,NA,"25.6","1.8","2","1",NA,NA
-"104","Alessandro Schöpf","Austria","Schalke","Midfielder","27","2","88",NA,"1",NA,NA,NA,NA,"0","0","37","43","0","1","4",NA,NA,"29.7","12.7","1","0",NA,NA
-"105","Christoph Baumgartner","Austria","Hoffenheim","Midfielder","21","4","250",NA,"5",NA,NA,NA,NA,"0","0","68","94","1","2","12",NA,NA,"29.9","28.1","4","0",NA,NA
-"106","Karim Onisiwo","Austria","Mainz","Midfielder","29","1","6",NA,"0",NA,NA,NA,NA,"0","0","1","1","0","0","0",NA,NA,"29.9","1.4","1","0",NA,NA
-"107","Valentino Lazaro","Austria","Mönchengladbach","Midfielder","25","1","20",NA,"0",NA,NA,NA,NA,"0","0","14","15","0","0","1",NA,NA,"29.7","3","0","0",NA,NA
-"108","Xaver Schlager","Austria","Wolfsburg","Midfielder","23","4","368",NA,"3",NA,NA,NA,NA,"0","0","129","160","0","6","22",NA,NA,"30.4","42.8","5","0",NA,NA
-"109","Konrad Laimer","Austria","Leipzig","Midfielder","24","4","336",NA,"11",NA,NA,NA,NA,"0","0","89","121","0","5","10",NA,NA,"32.4","39.4","2","1",NA,NA
-"110","Marko Arnautović","Austria","Shanghai SIPG","Forward","32","3","217",NA,"5",NA,NA,NA,NA,"1","0","45","63","1",NA,NA,NA,NA,"31.5",NA,"8","0","3","3"
-"111","Michael Gregoritsch","Austria","Augsburg","Forward","27","3","108",NA,"1",NA,NA,NA,NA,"0","0","22","26","1",NA,NA,NA,NA,"28.8",NA,"3","0","2","3"
-"112","Sasa Kalajdzic","Austria","Stuttgart","Forward","23","4","112",NA,"1",NA,NA,NA,NA,"0","0","30","38","1",NA,NA,NA,NA,"27.2",NA,"5","0","2","0"
-"113","Dominik Livaković","Croatia","Dinamo Zagreb","Goalkeeper","26","3","270","5","0","3","6","3","0","0","0","70","85",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"114","Šime Vrsaljko","Croatia","Atlético","Defender","29","2","180",NA,"2",NA,NA,NA,NA,"0","0","70","91","0","5","11","6","1","30.2","19.1",NA,NA,NA,NA
-"115","Borna Barišić","Croatia","Rangers","Defender","28","1","20",NA,"0",NA,NA,NA,NA,"0","0","10","13","0","0","1","1","0","23.2","2.5",NA,NA,NA,NA
-"116","Duje Ćaleta-Car","Croatia","Marseille","Defender","24","1","90",NA,"3",NA,NA,NA,NA,"1","0","47","48","0","0","6","3","0","28.4","8.8",NA,NA,NA,NA
-"117","Dejan Lovren","Croatia","Zenit","Defender","31","2","180",NA,"3",NA,NA,NA,NA,"2","0","100","111","0","2","13","11","2","26.6","17.6",NA,NA,NA,NA
-"118","Domagoj Vida","Croatia","Beşiktaş","Defender","32","3","270",NA,"1",NA,NA,NA,NA,"0","0","128","136","0","1","18","3","1","32","25.7",NA,NA,NA,NA
-"119","Josip Juranović","Croatia","Legia","Defender","25","1","90",NA,"0",NA,NA,NA,NA,"0","0","58","62","0","0","3","2","0","32.2","9.8",NA,NA,NA,NA
-"120","Joško Gvardiol","Croatia","Dinamo Zagreb","Defender","19","3","250",NA,"1",NA,NA,NA,NA,"0","0","109","128","0","4","11","4","0","33.3","26.2",NA,NA,NA,NA
-"121","Ivan Perišić","Croatia","Internazionale","Midfielder","32","3","261",NA,"1",NA,NA,NA,NA,"0","0","62","85","2","2","5",NA,NA,"31.5","27.1","7","1",NA,NA
-"122","Mateo Kovačić","Croatia","Chelsea","Midfielder","27","3","262",NA,"4",NA,NA,NA,NA,"1","0","174","198","0","4","10",NA,NA,"29.7","29.5","3","1",NA,NA
-"123","Luka Modrić","Croatia","Real Madrid","Midfielder","35","3","270",NA,"0",NA,NA,NA,NA,"0","0","209","230","1","4","10",NA,NA,"27.9","27.7","3","1",NA,NA
-"124","Marcelo Brozović","Croatia","Internazionale","Midfielder","28","3","163",NA,"3",NA,NA,NA,NA,"1","0","144","157","0","5","6",NA,NA,"26.6","21.5","1","0",NA,NA
-"125","Nikola Vlašić","Croatia","CSKA Moskva","Midfielder","23","3","124",NA,"2",NA,NA,NA,NA,"0","0","37","45","1","0","1",NA,NA,"30.2","14.7","2","0",NA,NA
-"126","Mario Pašalić","Croatia","Atalanta","Midfielder","26","1","5",NA,"0",NA,NA,NA,NA,"0","0","5","5","0","0","0",NA,NA,"26.1","1","1","0",NA,NA
-"127","Luka Ivanušec","Croatia","Dinamo Zagreb","Midfielder","22","2","59",NA,"0",NA,NA,NA,NA,"0","0","17","21","0","0","1",NA,NA,"29","7.7","1","0",NA,NA
-"128","Josip Brekalo","Croatia","Wolfsburg","Forward","23","2","65",NA,"0",NA,NA,NA,NA,"0","0","23","29","0",NA,NA,NA,NA,"28.4",NA,"0","0","0","0"
-"129","Andrej Kramarić","Croatia","Hoffenheim","Forward","30","3","152",NA,"0",NA,NA,NA,NA,"0","0","37","40","0",NA,NA,NA,NA,"29.9",NA,"2","1","0","3"
-"130","Ante Rebić","Croatia","Milan","Forward","27","3","132",NA,"4",NA,NA,NA,NA,"0","0","10","23","0",NA,NA,NA,NA,"31.3",NA,"4","0","0","1"
-"131","Bruno Petković","Croatia","Dinamo Zagreb","Forward","26","3","127",NA,"3",NA,NA,NA,NA,"0","0","29","41","0",NA,NA,NA,NA,"27.9",NA,"2","0","0","5"
-"132","Jordan Pickford","England","Everton","Goalkeeper","27","3","270","4","0","0","15","3","3","0","0","83","106",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"133","Kyle Walker","England","Man. City","Defender","31","2","180",NA,"0",NA,NA,NA,NA,"0","0","82","93","0","0","13","8","0","32.8","17.7",NA,NA,NA,NA
-"134","Luke Shaw","England","Man. United","Defender","25","2","180",NA,"3",NA,NA,NA,NA,"0","0","106","123","0","2","12","0","1","31","19.9",NA,NA,NA,NA
-"135","John Stones","England","Man. City","Defender","27","3","259",NA,"1",NA,NA,NA,NA,"0","0","184","193","0","2","10","6","5","29.2","25",NA,NA,NA,NA
-"136","Harry Maguire","England","Man. United","Defender","28","1","90",NA,"0",NA,NA,NA,NA,"0","0","63","69","0","1","6","5","1","24.5","9.5",NA,NA,NA,NA
-"137","Kieran Trippier","England","Atlético","Defender","30","1","90",NA,"1",NA,NA,NA,NA,"0","0","55","64","0","2","8","0","0","29.7","9.8",NA,NA,NA,NA
-"138","Tyrone Mings","England","Aston Villa","Defender","28","3","191",NA,"1",NA,NA,NA,NA,"0","0","119","131","0","4","10","7","1","30.6","19.4",NA,NA,NA,NA
-"139","Reece James","England","Chelsea","Defender","21","1","90",NA,"0",NA,NA,NA,NA,"0","0","84","85","0","0","3","0","1","29.2","9",NA,NA,NA,NA
-"140","Declan Rice","England","West Ham","Midfielder","22","3","225",NA,"4",NA,NA,NA,NA,"0","0","135","147","0","5","10",NA,NA,"28.8","26.1","0","0",NA,NA
-"141","Jack Grealish","England","Aston Villa","Midfielder","25","2","94",NA,"3",NA,NA,NA,NA,"0","0","37","43","0","1","2",NA,NA,"27.2","11.4","0","1",NA,NA
-"142","Jordan Henderson","England","Liverpool","Midfielder","31","1","45",NA,"1",NA,NA,NA,NA,"0","0","23","27","0","0","0",NA,NA,"26.6","5.9","0","0",NA,NA
-"143","Kalvin Phillips","England","Leeds","Midfielder","25","3","270",NA,"7",NA,NA,NA,NA,"0","0","121","139","0","6","9",NA,NA,"30.2","32.6","1","1",NA,NA
-"144","Jadon Sancho","England","Dortmund","Midfielder","21","1","6",NA,"0",NA,NA,NA,NA,"0","0","3","3","0","0","0",NA,NA,"28.8","1.3","0","0",NA,NA
-"145","Mason Mount","England","Chelsea","Midfielder","22","2","180",NA,"2",NA,NA,NA,NA,"0","0","63","73","0","1","6",NA,NA,"31.5","19.7","4","0",NA,NA
-"146","Phil Foden","England","Man. City","Midfielder","21","2","134",NA,"3",NA,NA,NA,NA,"1","0","46","54","0","0","0",NA,NA,"31.5","15.8","2","0",NA,NA
-"147","Bukayo Saka","England","Arsenal","Midfielder","19","1","84",NA,"0",NA,NA,NA,NA,"0","0","24","31","0","0","2",NA,NA,"31.3","9.6","0","0",NA,NA
-"148","Jude Bellingham","England","Dortmund","Midfielder","17","2","31",NA,"1",NA,NA,NA,NA,"0","0","10","13","0","1","1",NA,NA,"26.5","4.5","0","0",NA,NA
-"149","Harry Kane","England","Tottenham","Forward","27","3","246",NA,"1",NA,NA,NA,NA,"0","0","38","57","0",NA,NA,NA,NA,"30.8",NA,"5","0","1","5"
-"150","Raheem Sterling","England","Man. City","Forward","26","3","246",NA,"4",NA,NA,NA,NA,"0","0","70","86","2",NA,NA,NA,NA,"33.1",NA,"5","0","2","2"
-"151","Marcus Rashford","England","Man. United","Forward","23","3","58",NA,"1",NA,NA,NA,NA,"0","0","16","23","0",NA,NA,NA,NA,"31.3",NA,"0","0","0","0"
-"152","Dominic Calvert-Lewin","England","Everton","Forward","24","1","1",NA,"0",NA,NA,NA,NA,"0","0","0","0","0",NA,NA,NA,NA,"19.7",NA,"0","0","0","0"
-"153","Hugo Lloris","France","Tottenham","Goalkeeper","34","3","270","6","1","3","10","0","1","1","0","62","75",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"154","Benjamin Pavard","France","Bayern","Defender","25","2","180",NA,"3",NA,NA,NA,NA,"1","0","129","141","0","3","9","1","0","31","21.1",NA,NA,NA,NA
-"155","Presnel Kimpembe","France","Paris","Defender","25","3","270",NA,"4",NA,NA,NA,NA,"1","0","197","208","0","6","19","4","0","31.5","25.9",NA,NA,NA,NA
-"156","Raphaël Varane","France","Real Madrid","Defender","28","3","270",NA,"1",NA,NA,NA,NA,"0","0","211","221","0","2","17","10","2","28.8","28.4",NA,NA,NA,NA
-"157","Lucas Digne","France","Everton","Defender","27","2","97",NA,"2",NA,NA,NA,NA,"0","0","56","67","0","0","6","0","0","28.1","10.8",NA,NA,NA,NA
-"158","Lucas Hernández","France","Bayern","Defender","25","2","135",NA,"3",NA,NA,NA,NA,"1","0","61","67","0","1","2","8","0","26.6","14.7",NA,NA,NA,NA
-"159","Jules Koundé","France","Sevilla","Defender","22","1","90",NA,"2",NA,NA,NA,NA,"0","0","36","43","0","1","4","1","0","29.9","9.8",NA,NA,NA,NA
-"160","Paul Pogba","France","Man. United","Midfielder","28","3","256",NA,"4",NA,NA,NA,NA,"0","0","170","196","0","7","7",NA,NA,"28.1","28.2","5","1",NA,NA
-"161","Thomas Lemar","France","Atlético","Midfielder","25","1","3",NA,"0",NA,NA,NA,NA,"0","0","6","7","0","0","0",NA,NA,"23.2","0.8","0","0",NA,NA
-"162","Corentin Tolisso","France","Bayern","Midfielder","26","3","81",NA,"1",NA,NA,NA,NA,"0","0","63","65","0","1","3",NA,NA,"28.8","10.5","1","0",NA,NA
-"163","N'Golo Kanté","France","Chelsea","Midfielder","30","3","270",NA,"8",NA,NA,NA,NA,"0","0","161","175","0","8","14",NA,NA,"28.4","32.1","1","0",NA,NA
-"164","Adrien Rabiot","France","Juventus","Midfielder","26","3","184",NA,"4",NA,NA,NA,NA,"0","0","104","112","0","1","13",NA,NA,"30.6","21.9","1","0",NA,NA
-"165","Moussa Sissoko","France","Tottenham","Midfielder","31","1","3",NA,"0",NA,NA,NA,NA,"0","0","3","3","0","0","0",NA,NA,"19.8","0.8","0","0",NA,NA
-"166","Kingsley Coman","France","Bayern","Midfielder","25","1","24",NA,"0",NA,NA,NA,NA,"0","0","12","14","0","0","2",NA,NA,"33.7","2.9","0","0",NA,NA
-"167","Antoine Griezmann","France","Barcelona","Forward","30","3","267",NA,"2",NA,NA,NA,NA,"1","0","109","128","1",NA,NA,NA,NA,"27.9",NA,"5","0","2","3"
-"168","Olivier Giroud","France","Chelsea","Forward","34","1","14",NA,"0",NA,NA,NA,NA,"0","0","2","3","0",NA,NA,NA,NA,"28.8",NA,"0","0","0","0"
-"169","Kylian Mbappé","France","Paris","Forward","22","3","270",NA,"2",NA,NA,NA,NA,"0","0","54","72","0",NA,NA,NA,NA,"32.2",NA,"8","0","3","4"
-"170","Ousmane Dembélé","France","Barcelona","Forward","24","2","31",NA,"0",NA,NA,NA,NA,"0","0","6","11","0",NA,NA,NA,NA,"28.1",NA,"1","0","0","1"
-"171","Karim Benzema","France","Real Madrid","Forward","33","3","255",NA,"0",NA,NA,NA,NA,"0","0","89","102","2",NA,NA,NA,NA,"29.5",NA,"7","0","3","0"
-"172","Manuel Neuer","Germany","Bayern","Goalkeeper","35","3","270","3","0","5","7","1","0","0","0","91","99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"173","Antonio Rüdiger","Germany","Chelsea","Defender","28","3","270",NA,"2",NA,NA,NA,NA,"0","0","226","234","0","2","15","7","0","31","26.9",NA,NA,NA,NA
-"174","Marcel Halstenberg","Germany","Leipzig","Defender","29","1","28",NA,"0",NA,NA,NA,NA,"0","0","5","6","0","0","1","0","0","28.8","3.3",NA,NA,NA,NA
-"175","Matthias Ginter","Germany","Mönchengladbach","Defender","27","3","260",NA,"3",NA,NA,NA,NA,"1","0","221","245","0","6","16","7","2","30.8","26.8",NA,NA,NA,NA
-"176","Mats Hummels","Germany","Dortmund","Defender","32","3","242",NA,"1",NA,NA,NA,NA,"0","0","223","232","0","5","22","10","2","27.9","24.4",NA,NA,NA,NA
-"177","Niklas Süle","Germany","Bayern","Defender","25","1","17",NA,"0",NA,NA,NA,NA,"0","0","8","8","0","0","1","2","0","26.5","2.1",NA,NA,NA,NA
-"178","Robin Gosens","Germany","Atalanta","Defender","26","3","232",NA,"2",NA,NA,NA,NA,"0","0","121","143","1","6","9","4","0","30.4","28.2",NA,NA,NA,NA
-"179","Emre Can","Germany","Dortmund","Defender","27","2","30",NA,"0",NA,NA,NA,NA,"0","0","32","34","0","1","2","1","0","27","4.2",NA,NA,NA,NA
-"180","Joshua Kimmich","Germany","Bayern","Midfielder","26","3","270",NA,"2",NA,NA,NA,NA,"1","0","169","199","0","2","8",NA,NA,"30.2","33.7","1","2",NA,NA
-"181","Toni Kroos","Germany","Real Madrid","Midfielder","31","3","270",NA,"5",NA,NA,NA,NA,"0","0","288","314","0","7","18",NA,NA,"26.8","31","4","0",NA,NA
-"182","Serge Gnabry","Germany","Bayern","Midfielder","25","3","228",NA,"4",NA,NA,NA,NA,"0","0","57","71","0","6","6",NA,NA,"30.8","24.5","4","0",NA,NA
-"183","Jamal Musiala","Germany","Bayern","Midfielder","18","1","8",NA,"0",NA,NA,NA,NA,"0","0","5","5","0","1","1",NA,NA,"22.9","1.5","0","0",NA,NA
-"184","Leon Goretzka","Germany","Bayern","Midfielder","26","2","49",NA,"1",NA,NA,NA,NA,"0","0","26","29","1","1","2",NA,NA,"26.8","6.2","2","0",NA,NA
-"185","Leroy Sané","Germany","Bayern","Midfielder","25","3","109",NA,"1",NA,NA,NA,NA,"1","0","49","59","0","0","1",NA,NA,"32.2","13","1","0",NA,NA
-"186","İlkay Gündoğan","Germany","Man. City","Midfielder","30","3","221",NA,"3",NA,NA,NA,NA,"1","0","178","191","0","1","10",NA,NA,"30.4","26.3","1","0",NA,NA
-"187","Kai Havertz","Germany","Chelsea","Forward","22","3","214",NA,"7",NA,NA,NA,NA,"1","0","73","87","2",NA,NA,NA,NA,"29.2",NA,"9","0","4","2"
-"188","Kevin Volland","Germany","Monaco","Forward","28","2","10",NA,"0",NA,NA,NA,NA,"0","0","6","8","0",NA,NA,NA,NA,"29.2",NA,"0","0","0","0"
-"189","Timo Werner","Germany","Chelsea","Forward","25","2","39",NA,"0",NA,NA,NA,NA,"0","0","13","18","0",NA,NA,NA,NA,"27.2",NA,"1","0","0","0"
-"190","Thomas Müller","Germany","Bayern","Forward","31","3","203",NA,"2",NA,NA,NA,NA,"0","0","81","104","0",NA,NA,NA,NA,"27",NA,"4","0","1","3"
-"191","Maarten Stekelenburg","Netherlands","Ajax","Goalkeeper","38","4","360","8","0","4","6","0","2","0","0","93","131",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"192","Joël Veltman","Netherlands","Brighton","Defender","29","1","2",NA,"0",NA,NA,NA,NA,"0","0","7","8","0","0","1","0","0","23.2","0.8",NA,NA,NA,NA
-"193","Matthijs de Ligt","Netherlands","Juventus","Defender","21","3","232",NA,"3",NA,NA,NA,NA,"0","1","128","139","0","3","18","8","2","30.6","26.4",NA,NA,NA,NA
-"194","Nathan Aké","Netherlands","Man. City","Defender","26","2","52",NA,"0",NA,NA,NA,NA,"0","0","33","35","0","1","2","2","0","26.3","6.5",NA,NA,NA,NA
-"195","Owen Wijndal","Netherlands","AZ Alkmaar","Defender","21","2","52",NA,"1",NA,NA,NA,NA,"0","0","17","22","0","0","1","1","0","29.5","7.2",NA,NA,NA,NA
-"196","Stefan de Vrij","Netherlands","Internazionale","Defender","29","4","315",NA,"4",NA,NA,NA,NA,"0","0","176","201","0","3","38","7","2","29.7","33.2",NA,NA,NA,NA
-"197","Patrick van Aanholt","Netherlands","Crystal Palace","Defender","30","4","299",NA,"4",NA,NA,NA,NA,"0","0","120","156","0","1","13","2","0","32.6","32.5",NA,NA,NA,NA
-"198","Daley Blind","Netherlands","Ajax","Defender","31","4","299",NA,"1",NA,NA,NA,NA,"0","0","281","312","0","4","29","7","1","29","30.9",NA,NA,NA,NA
-"199","Denzel Dumfries","Netherlands","PSV","Defender","25","4","315",NA,"3",NA,NA,NA,NA,"1","0","66","90","2","3","6","0","1","32.8","35.8",NA,NA,NA,NA
-"200","Georginio Wijnaldum","Netherlands","Liverpool","Midfielder","30","4","360",NA,"4",NA,NA,NA,NA,"0","0","107","120","3","2","17",NA,NA,"31.3","41.2","10","0",NA,NA
-"201","Quincy Promes","Netherlands","Spartak Moskva","Midfielder","29","2","57",NA,"2",NA,NA,NA,NA,"0","0","31","40","0","0","0",NA,NA,"31","7.7","1","0",NA,NA
-"202","Marten de Roon","Netherlands","Atalanta","Midfielder","30","3","237",NA,"2",NA,NA,NA,NA,"1","0","131","158","0","3","16",NA,NA,"29.5","26.6","1","0",NA,NA
-"203","Ryan Gravenberch","Netherlands","Ajax","Midfielder","19","2","106",NA,"0",NA,NA,NA,NA,"0","0","80","96","0","1","6",NA,NA,"30.4","13.5","2","0",NA,NA
-"204","Frenkie de Jong","Netherlands","Barcelona","Midfielder","24","4","348",NA,"2",NA,NA,NA,NA,"1","0","239","271","0","7","24",NA,NA,"29","40.8","0","0",NA,NA
-"205","Jurriën Timber","Netherlands","Ajax","Midfielder","20","3","142",NA,"1",NA,NA,NA,NA,"0","0","105","112","0","1","16",NA,NA,"28.4","15","1","0",NA,NA
-"206","Steven Berghuis","Netherlands","Feyenoord","Forward","29","2","54",NA,"1",NA,NA,NA,NA,"0","0","18","32","0",NA,NA,NA,NA,"29.5",NA,"1","0","0","2"
-"207","Luuk de Jong","Netherlands","Sevilla","Forward","30","2","10",NA,"0",NA,NA,NA,NA,"0","0","9","12","0",NA,NA,NA,NA,"26.8",NA,"0","0","0","1"
-"208","Memphis Depay","Netherlands","Lyon","Forward","27","4","327",NA,"3",NA,NA,NA,NA,"0","0","126","171","2",NA,NA,NA,NA,"30.8",NA,"12","2","4","8"
-"209","Donyell Malen","Netherlands","PSV","Forward","22","4","150",NA,"1",NA,NA,NA,NA,"0","0","45","53","0",NA,NA,NA,NA,"31.3",NA,"3","2","0","3"
-"210","Wout Weghorst","Netherlands","Wolfsburg","Forward","28","4","193",NA,"7",NA,NA,NA,NA,"0","0","33","51","1",NA,NA,NA,NA,"29.2",NA,"6","0","2","2"
-"211","Cody Gakpo","Netherlands","PSV","Forward","22","1","12",NA,"1",NA,NA,NA,NA,"0","0","4","6","0",NA,NA,NA,NA,"33.6",NA,"0","0","0","0"
-"212","Rui Patrício","Portugal","Wolves","Goalkeeper","33","4","360","11","0","7","13","1","1","0","0","82","99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"213","Nélson Semedo","Portugal","Wolves","Defender","27","3","259",NA,"3",NA,NA,NA,NA,"0","0","123","146","0","5","15","3","1","32","26.8",NA,NA,NA,NA
-"214","Pepe","Portugal","Porto","Defender","38","4","360",NA,"2",NA,NA,NA,NA,"1","0","253","282","0","4","28","7","0","30.6","37.1",NA,NA,NA,NA
-"215","Rúben Dias","Portugal","Man. City","Defender","24","4","360",NA,"4",NA,NA,NA,NA,"1","0","304","327","0","5","24","7","2","31.3","39.3",NA,NA,NA,NA
-"216","Raphaël Guerreiro","Portugal","Dortmund","Defender","27","4","360",NA,"2",NA,NA,NA,NA,"0","0","226","252","1","4","18","1","0","26.6","39.9",NA,NA,NA,NA
-"217","Diogo Dalot","Portugal","Man. United","Defender","22","2","101",NA,"1",NA,NA,NA,NA,"1","0","61","72","0","2","6","0","1","28.6","11.2",NA,NA,NA,NA
-"218","João Moutinho","Portugal","Wolves","Midfielder","34","4","154",NA,"1",NA,NA,NA,NA,"0","0","104","111","0","4","5",NA,NA,"23.6","19.1","3","0",NA,NA
-"219","Bernardo Silva","Portugal","Man. City","Midfielder","26","4","243",NA,"5",NA,NA,NA,NA,"0","0","88","108","0","9","15",NA,NA,"29","27.9","0","0",NA,NA
-"220","Bruno Fernandes","Portugal","Man. United","Midfielder","26","4","206",NA,"1",NA,NA,NA,NA,"0","0","79","100","0","0","3",NA,NA,"29","23.9","4","0",NA,NA
-"221","Danilo","Portugal","Paris","Midfielder","29","4","237",NA,"4",NA,NA,NA,NA,"0","0","125","133","0","2","14",NA,NA,"27","26.7","1","0",NA,NA
-"222","William Carvalho","Portugal","Betis","Midfielder","29","2","139",NA,"2",NA,NA,NA,NA,"0","0","87","98","0","2","4",NA,NA,"29.7","16.2","0","0",NA,NA
-"223","Renato Sanches","Portugal","LOSC","Midfielder","23","4","220",NA,"4",NA,NA,NA,NA,"0","0","178","193","0","0","10",NA,NA,"29","24.8","4","0",NA,NA
-"224","Rúben Neves","Portugal","Wolves","Midfielder","24","1","18",NA,"0",NA,NA,NA,NA,"0","0","9","9","0","0","2",NA,NA,"25.2","2.6","0","0",NA,NA
-"225","Sérgio Oliveira","Portugal","Porto","Midfielder","29","2","14",NA,"2",NA,NA,NA,NA,"0","0","17","22","0","1","0",NA,NA,"22.5","3.2","0","0",NA,NA
-"226","João Palhinha","Portugal","Sporting CP","Midfielder","25","2","123",NA,"2",NA,NA,NA,NA,"1","0","57","61","0","9","8",NA,NA,"28.1","13.9","5","0",NA,NA
-"227","Cristiano Ronaldo","Portugal","Juventus","Forward","36","4","360",NA,"0",NA,NA,NA,NA,"0","0","113","130","5",NA,NA,NA,NA,"29.7",NA,"16","1","8","9"
-"228","André Silva","Portugal","Frankfurt","Forward","25","3","36",NA,"0",NA,NA,NA,NA,"0","0","9","10","0",NA,NA,NA,NA,"30.4",NA,"3","0","1","0"
-"229","Rafa Silva","Portugal","Benfica","Forward","28","2","51",NA,"1",NA,NA,NA,NA,"0","0","31","37","0",NA,NA,NA,NA,"32.8",NA,"0","2","0","3"
-"230","Diogo Jota","Portugal","Liverpool","Forward","24","4","324",NA,"4",NA,NA,NA,NA,"0","0","92","115","1",NA,NA,NA,NA,"31.7",NA,"8","1","3","5"
-"231","João Félix","Portugal","Atlético","Forward","21","1","35",NA,"0",NA,NA,NA,NA,"0","0","17","21","0",NA,NA,NA,NA,"30.4",NA,"3","0","1","2"
-"232","Unai Simón","Spain","Athletic Club","Goalkeeper","24","3","270","1","0","1","5","1","2","0","0","70","72",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"233","César Azpilicueta","Spain","Chelsea","Defender","31","1","77",NA,"0",NA,NA,NA,NA,"0","0","53","64","0","0","7","1","0","29.5","7.7",NA,NA,NA,NA
-"234","Pau Torres","Spain","Villarreal","Defender","24","3","199",NA,"2",NA,NA,NA,NA,"1","0","218","232","0","0","16","2","1","28.1","21.6",NA,NA,NA,NA
-"235","Eric García","Spain","Man. City","Defender","20","1","71",NA,"1",NA,NA,NA,NA,"0","0","71","74","0","1","4","0","0","30.4","7.3",NA,NA,NA,NA
-"236","Jordi Alba","Spain","Barcelona","Defender","32","3","270",NA,"4",NA,NA,NA,NA,"1","0","250","294","0","2","19","3","0","31.3","30.8",NA,NA,NA,NA
-"237","Aymeric Laporte","Spain","Man. City","Defender","27","3","270",NA,"4",NA,NA,NA,NA,"0","0","270","274","1","4","14","3","1","29.5","27.9",NA,NA,NA,NA
-"238","Sergio Busquets","Spain","Barcelona","Midfielder","32","1","71",NA,"1",NA,NA,NA,NA,"1","0","45","51","0","1","4",NA,NA,"20.4","8.3","0","0",NA,NA
-"239","Marcos Llorente","Spain","Atlético","Midfielder","26","2","180",NA,"2",NA,NA,NA,NA,"0","0","191","214","0","0","8",NA,NA,"33.3","19.8","0","0",NA,NA
-"240","Koke","Spain","Atlético","Midfielder","29","3","245",NA,"4",NA,NA,NA,NA,"0","0","227","263","0","4","8",NA,NA,"27","31.1","3","0",NA,NA
-"241","Thiago Alcántara","Spain","Liverpool","Midfielder","30","2","43",NA,"0",NA,NA,NA,NA,"0","0","52","60","0","0","5",NA,NA,"24.5","6.4","1","0",NA,NA
-"242","Ferran Torres","Spain","Man. City","Midfielder","21","3","127",NA,"0",NA,NA,NA,NA,"0","0","47","56","1","0","2",NA,NA,"27.9","14.2","4","0",NA,NA
-"243","Rodri","Spain","Man. City","Midfielder","25","2","156",NA,"2",NA,NA,NA,NA,"1","0","114","124","0","2","8",NA,NA,"27.2","19.1","2","0",NA,NA
-"244","Fabián Ruiz","Spain","Napoli","Midfielder","25","2","25",NA,"0",NA,NA,NA,NA,"0","0","27","32","0","0","0",NA,NA,"26.6","4.6","0","0",NA,NA
-"245","Dani Olmo","Spain","Leipzig","Midfielder","23","2","135",NA,"2",NA,NA,NA,NA,"0","0","56","74","0","0","2",NA,NA,"28.6","14.6","6","0",NA,NA
-"246","Adama Traoré","Spain","Wolves","Midfielder","25","1","13",NA,"0",NA,NA,NA,NA,"0","0","13","15","0","0","0",NA,NA,"25","1.7","0","0",NA,NA
-"247","Pablo Sarabia","Spain","Paris","Midfielder","29","3","136",NA,"1",NA,NA,NA,NA,"0","0","77","95","1","1","3",NA,NA,"26.5","17","5","2",NA,NA
-"248","Álvaro Morata","Spain","Atlético","Forward","28","3","219",NA,"5",NA,NA,NA,NA,"0","0","59","72","1",NA,NA,NA,NA,"30.6",NA,"10","0","6","5"
-"249","Gerard Moreno","Spain","Villarreal","Forward","29","3","161",NA,"1",NA,NA,NA,NA,"0","0","54","73","0",NA,NA,NA,NA,"26.5",NA,"8","2","2","5"
-"250","Mikel Oyarzabal","Spain","Real Sociedad","Forward","24","3","32",NA,"0",NA,NA,NA,NA,"0","0","14","19","0",NA,NA,NA,NA,"28.6",NA,"1","0","0","0"
-"251","Pedri","Spain","Barcelona","Forward","18","3","270",NA,"1",NA,NA,NA,NA,"0","0","217","242","0",NA,NA,NA,NA,"29.7",NA,"0","0","0","6"
-"252","Robin Olsen","Sweden","Roma","Goalkeeper","31","3","270","10","0","2","15","3","2","0","0","29","83",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"253","Mikael Lustig","Sweden","AIK","Defender","34","3","233",NA,"3",NA,NA,NA,NA,"1","0","54","87","0","2","9","7","3","31","25.8",NA,NA,NA,NA
-"254","Victor Lindelöf","Sweden","Man. United","Defender","26","3","270",NA,"0",NA,NA,NA,NA,"0","0","89","97","0","0","17","14","4","29.2","28.9",NA,NA,NA,NA
-"255","Pierre Bengtsson","Sweden","Copenhagen","Defender","33","2","8",NA,"1",NA,NA,NA,NA,"0","0","2","4","0","0","1","1","0","30.6","2.7",NA,NA,NA,NA
-"256","Ludwig Augustinsson","Sweden","Bremen","Defender","27","3","268",NA,"1",NA,NA,NA,NA,"0","0","41","67","0","1","16","10","0","29.2","30.4",NA,NA,NA,NA
-"257","Emil Krafth","Sweden","Newcastle","Defender","26","3","38",NA,"1",NA,NA,NA,NA,"0","0","1","3","0","0","0","2","1","28.6","5.3",NA,NA,NA,NA
-"258","Marcus Danielson","Sweden","Dalian Pro","Defender","32","3","270",NA,"2",NA,NA,NA,NA,"1","0","62","81","0","2","15","22","2","26.5","29.6",NA,NA,NA,NA
-"259","Sebastian Larsson","Sweden","AIK","Midfielder","36","3","270",NA,"3",NA,NA,NA,NA,"0","0","62","81","0","6","11",NA,NA,"29.7","32.5","2","0",NA,NA
-"260","Albin Ekdal","Sweden","Sampdoria","Midfielder","31","3","268",NA,"6",NA,NA,NA,NA,"0","0","55","65","0","8","17",NA,NA,"27.7","32.3","2","0",NA,NA
-"261","Emil Forsberg","Sweden","Leipzig","Midfielder","29","3","251",NA,"4",NA,NA,NA,NA,"0","0","59","73","3","2","5",NA,NA,"29","28.1","8","0",NA,NA
-"262","Gustav Svensson","Sweden","Guangzhou","Midfielder","34","1","2",NA,"0",NA,NA,NA,NA,"0","0","0","0","0","0","0",NA,NA,"19.7","0.9","0","0",NA,NA
-"263","Viktor Claesson","Sweden","Krasnodar","Midfielder","29","3","59",NA,"1",NA,NA,NA,NA,"0","0","9","17","1","2","3",NA,NA,"27.9","9.8","2","0",NA,NA
-"264","Kristoffer Olsson","Sweden","Krasnodar","Midfielder","25","3","238",NA,"4",NA,NA,NA,NA,"1","0","65","83","0","6","7",NA,NA,"29.9","29.5","1","0",NA,NA
-"265","Dejan Kulusevski","Sweden","Juventus","Midfielder","21","1","35",NA,"1",NA,NA,NA,NA,"0","0","10","11","0","0","1",NA,NA,"29.2","4.7","0","2",NA,NA
-"266","Robin Quaison","Sweden","Mainz","Midfielder","27","3","102",NA,"4",NA,NA,NA,NA,"0","0","8","17","0","1","1",NA,NA,"29","13.2","1","0",NA,NA
-"267","Jens-Lys Cajuste","Sweden","Midtjylland","Midfielder","21","1","6",NA,"0",NA,NA,NA,NA,"0","0","1","2","0","1","1",NA,NA,"24.8","1.8","0","0",NA,NA
-"268","Marcus Berg","Sweden","Krasnodar","Forward","34","3","155",NA,"5",NA,NA,NA,NA,"0","0","24","38","0",NA,NA,NA,NA,"28.6",NA,"2","0","0","2"
-"269","Alexander Isak","Sweden","Real Sociedad","Forward","21","3","227",NA,"4",NA,NA,NA,NA,"0","0","35","43","0",NA,NA,NA,NA,"32",NA,"5","0","1","1"
-"270","Yann Sommer","Switzerland","Mönchengladbach","Goalkeeper","32","3","270","6","0","5","7","2","0","0","0","72","85",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"271","Kevin Mbabu","Switzerland","Wolfsburg","Defender","26","3","149",NA,"3",NA,NA,NA,NA,"1","0","45","59","0","6","11","2","2","32.4","15",NA,NA,NA,NA
-"272","Silvan Widmer","Switzerland","Basel","Defender","28","2","121",NA,"1",NA,NA,NA,NA,"0","0","57","67","0","3","4","2","0","32.2","14.7",NA,NA,NA,NA
-"273","Nico Elvedi","Switzerland","Mönchengladbach","Defender","24","3","270",NA,"1",NA,NA,NA,NA,"0","0","158","169","0","5","12","5","0","30.2","25.8",NA,NA,NA,NA
-"274","Manuel Akanji","Switzerland","Dortmund","Defender","25","3","270",NA,"1",NA,NA,NA,NA,"0","0","169","182","0","5","24","6","4","32.2","25.3",NA,NA,NA,NA
-"275","Ricardo Rodríguez","Switzerland","Torino","Defender","28","3","270",NA,"1",NA,NA,NA,NA,"0","0","128","148","0","3","13","6","2","29","28",NA,NA,NA,NA
-"276","Loris Benito","Switzerland","Bordeaux","Defender","29","1","5",NA,"0",NA,NA,NA,NA,"0","0","2","4","0","0","0","0","0","32.2","0.9",NA,NA,NA,NA
-"277","Fabian Schär","Switzerland","Newcastle","Defender","29","2","147",NA,"3",NA,NA,NA,NA,"1","0","102","110","0","3","6","2","0","25.6","13",NA,NA,NA,NA
-"278","Denis Zakaria","Switzerland","Mönchengladbach","Midfielder","24","1","24",NA,"1",NA,NA,NA,NA,"0","0","7","8","0","0","0",NA,NA,"27","2.8","1","0",NA,NA
-"279","Remo Freuler","Switzerland","Atalanta","Midfielder","29","3","264",NA,"3",NA,NA,NA,NA,"0","0","159","170","0","3","17",NA,NA,"29.7","31.7","0","0",NA,NA
-"280","Granit Xhaka","Switzerland","Arsenal","Midfielder","28","3","270",NA,"6",NA,NA,NA,NA,"1","0","201","218","0","7","20",NA,NA,"30.6","31","4","0",NA,NA
-"281","Ruben Vargas","Switzerland","Augsburg","Midfielder","22","2","29",NA,"0",NA,NA,NA,NA,"0","0","21","23","0","0","1",NA,NA,"28.4","4.2","1","0",NA,NA
-"282","Steven Zuber","Switzerland","Frankfurt","Midfielder","29","2","118",NA,"2",NA,NA,NA,NA,"0","0","44","58","0","3","2",NA,NA,"31.5","13.8","5","3",NA,NA
-"283","Djibril Sow","Switzerland","Frankfurt","Midfielder","24","1","6",NA,"0",NA,NA,NA,NA,"0","0","4","6","0","0","2",NA,NA,"24.8","1.3","1","0",NA,NA
-"284","Xherdan Shaqiri","Switzerland","Liverpool","Midfielder","29","3","217",NA,"4",NA,NA,NA,NA,"0","0","75","91","2","0","4",NA,NA,"29.5","24.2","9","1",NA,NA
-"285","Breel Embolo","Switzerland","Mönchengladbach","Forward","24","3","265",NA,"3",NA,NA,NA,NA,"1","0","71","84","1",NA,NA,NA,NA,"32.8",NA,"10","0","4","5"
-"286","Haris Seferović","Switzerland","Benfica","Forward","29","3","204",NA,"4",NA,NA,NA,NA,"0","0","42","56","1",NA,NA,NA,NA,"29",NA,"9","0","3","2"
-"287","Admir Mehmedi","Switzerland","Wolfsburg","Forward","30","1","5",NA,"1",NA,NA,NA,NA,"0","0","6","7","0",NA,NA,NA,NA,"22.3",NA,"0","0","0","0"
-"288","Mario Gavranović","Switzerland","Dinamo Zagreb","Forward","31","3","66",NA,"1",NA,NA,NA,NA,"1","0","9","14","0",NA,NA,NA,NA,"26.3",NA,"0","0","0","0"
-"289","Georgiy Bushchan","Ukraine","Dynamo Kyiv","Goalkeeper","27","3","270","11","0","5","7","2","0","0","0","63","85",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"290","Eduard Sobol","Ukraine","Club Brugge","Defender","26","1","1",NA,"0",NA,NA,NA,NA,"0","0","0","0","0","0","0","0","0","25.9","0.6",NA,NA,NA,NA
-"291","Illia Zabarnyi","Ukraine","Dynamo Kyiv","Defender","18","3","270",NA,"1",NA,NA,NA,NA,"0","0","140","154","0","1","24","4","4","27.2","27.6",NA,NA,NA,NA
-"292","Vitaliy Mykolenko","Ukraine","Dynamo Kyiv","Defender","22","3","265",NA,"0",NA,NA,NA,NA,"0","0","99","116","0","5","13","7","0","31.3","28.1",NA,NA,NA,NA
-"293","Oleksandr Zinchenko","Ukraine","Man. City","Defender","24","3","270",NA,"2",NA,NA,NA,NA,"0","0","109","139","0","3","13","3","1","29","31",NA,NA,NA,NA
-"294","Oleksandr Karavaev","Ukraine","Dynamo Kyiv","Defender","29","3","270",NA,"2",NA,NA,NA,NA,"0","0","113","144","0","4","26","3","0","31.3","29.8",NA,NA,NA,NA
-"295","Mykola Matviyenko","Ukraine","Shakhtar Donetsk","Defender","25","3","270",NA,"4",NA,NA,NA,NA,"0","0","156","172","0","4","27","11","6","30.2","27.8",NA,NA,NA,NA
-"296","Serhiy Sydorchuk","Ukraine","Dynamo Kyiv","Midfielder","30","3","192",NA,"4",NA,NA,NA,NA,"1","0","81","90","0","4","8",NA,NA,"30.4","22.4","1","0",NA,NA
-"297","Taras Stepanenko","Ukraine","Shakhtar Donetsk","Midfielder","31","1","90",NA,"1",NA,NA,NA,NA,"0","0","41","45","0","2","7",NA,NA,"25.6","10.7","0","0",NA,NA
-"298","Ruslan Malinovskyi","Ukraine","Atalanta","Midfielder","28","3","224",NA,"2",NA,NA,NA,NA,"0","0","68","85","0","1","6",NA,NA,"30.8","24","7","1",NA,NA
-"299","Mykola Shaparenko","Ukraine","Dynamo Kyiv","Midfielder","22","3","172",NA,"2",NA,NA,NA,NA,"1","0","111","123","0","8","6",NA,NA,"28.8","21.5","1","0",NA,NA
-"300","Marlos","Ukraine","Shakhtar Donetsk","Midfielder","33","2","73",NA,"0",NA,NA,NA,NA,"0","0","27","31","0","0","0",NA,NA,"24.8","8.7","0","0",NA,NA
-"301","Viktor Tsygankov","Ukraine","Dynamo Kyiv","Midfielder","23","2","65",NA,"2",NA,NA,NA,NA,"0","0","22","32","0","2","1",NA,NA,"27.4","8.8","1","0",NA,NA
-"302","Oleksandr Zubkov","Ukraine","Ferencváros","Midfielder","24","1","13",NA,"1",NA,NA,NA,NA,"0","0","4","4","0","0","0",NA,NA,"0","1","0","0",NA,NA
-"303","Andriy Yarmolenko","Ukraine","West Ham","Forward","31","3","250",NA,"2",NA,NA,NA,NA,"0","0","70","89","2",NA,NA,NA,NA,"30.4",NA,"8","1","4","3"
-"304","Roman Yaremchuk","Ukraine","Gent","Forward","25","3","250",NA,"4",NA,NA,NA,NA,"0","0","54","63","2",NA,NA,NA,NA,"30.8",NA,"7","1","4","1"
-"305","Artem Besedin","Ukraine","Dynamo Kyiv","Forward","25","2","25",NA,"0",NA,NA,NA,NA,"0","0","7","9","0",NA,NA,NA,NA,"29.5",NA,"0","0","0","1"
-"306","Danny Ward","Wales","Leicester","Goalkeeper","28","4","360","18","0","6","10","1","1","0","0","74","118",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"307","Chris Gunter","Wales","Charlton","Defender","31","1","90",NA,"2",NA,NA,NA,NA,"1","0","23","27","0","2","1","4","0","27.9","8.7",NA,NA,NA,NA
-"308","Neco Williams","Wales","Liverpool","Defender","20","3","137",NA,"0",NA,NA,NA,NA,"0","0","52","64","0","2","3","2","0","29.7","14.5",NA,NA,NA,NA
-"309","Ben Davies","Wales","Tottenham","Defender","28","4","274",NA,"3",NA,NA,NA,NA,"1","0","71","98","0","3","15","9","5","27.7","28.4",NA,NA,NA,NA
-"310","Joe Rodon","Wales","Tottenham","Defender","23","4","360",NA,"2",NA,NA,NA,NA,"1","0","107","125","0","1","19","18","5","31.5","35.8",NA,NA,NA,NA
-"311","Connor Roberts","Wales","Swansea","Defender","25","4","310",NA,"0",NA,NA,NA,NA,"0","0","82","99","1","0","14","7","3","32.8","34.2",NA,NA,NA,NA
-"312","Ethan Ampadu","Wales","Chelsea","Defender","20","3","73",NA,"2",NA,NA,NA,NA,"0","1","28","32","0","4","4","2","0","25.4","8.3",NA,NA,NA,NA
-"313","Chris Mepham","Wales","Bournemouth","Defender","23","3","270",NA,"2",NA,NA,NA,NA,"1","0","78","92","0","7","24","11","3","30.4","25.9",NA,NA,NA,NA
-"314","Joe Allen","Wales","Stoke","Midfielder","31","4","339",NA,"5",NA,NA,NA,NA,"1","0","118","133","0","6","11",NA,NA,"29.2","38.2","2","0",NA,NA
-"315","Harry Wilson","Wales","Liverpool","Midfielder","24","3","52",NA,"1",NA,NA,NA,NA,"0","1","12","15","0","1","2",NA,NA,"29.2","6.6","1","0",NA,NA
-"316","Aaron Ramsey","Wales","Juventus","Midfielder","30","4","354",NA,"5",NA,NA,NA,NA,"0","0","130","158","1","4","12",NA,NA,"29.7","42","7","0",NA,NA
-"317","Joe Morrell","Wales","Luton","Midfielder","24","4","299",NA,"4",NA,NA,NA,NA,"0","0","100","114","0","6","17",NA,NA,"27.9","34.3","1","1",NA,NA
-"318","David Brooks","Wales","Bournemouth","Midfielder","23","3","31",NA,"1",NA,NA,NA,NA,"1","0","6","9","0","1","0",NA,NA,"27.7","4.1","0","0",NA,NA
-"319","Daniel James","Wales","Man. United","Midfielder","23","4","316",NA,"2",NA,NA,NA,NA,"0","0","54","68","0","5","6",NA,NA,"33.5","31.6","4","0",NA,NA
-"320","Dylan Levitt","Wales","Man. United","Midfielder","20","1","4",NA,"0",NA,NA,NA,NA,"0","0","0","0","0","0","0",NA,NA,"23.6","0.9","0","0",NA,NA
-"321","Tyler Roberts","Wales","Leeds","Forward","22","1","12",NA,"0",NA,NA,NA,NA,"0","0","6","6","0",NA,NA,NA,NA,"24.3",NA,"0","0","0","0"
-"322","Gareth Bale","Wales","Real Madrid","Forward","31","4","356",NA,"3",NA,NA,NA,NA,"1","0","66","94","0",NA,NA,NA,NA,"32",NA,"9","2","2","6"
-"323","Kieffer Moore","Wales","Cardiff","Forward","28","4","288",NA,"5",NA,NA,NA,NA,"2","0","29","47","1",NA,NA,NA,NA,"32.2",NA,"7","0","2","9"
-"324","Lukas Hradecky","Finland","Leverkusen","Goalkeeper","31","3","270","14","0","3","14","1","1","0","0","67","113",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"325","Paulus Arajuuri","Finland","Pafos","Defender","33","3","270",NA,"2",NA,NA,NA,NA,"0","0","78","85","0","6","17","16","6","27.2","26.7",NA,NA,NA,NA
-"326","Daniel O'Shaughnessy","Finland","HJK","Defender","26","3","270",NA,"1",NA,NA,NA,NA,"1","0","105","129","0","2","15","14","3","28.8","28.5",NA,NA,NA,NA
-"327","Joona Toivio","Finland","Häcken","Defender","33","3","265",NA,"0",NA,NA,NA,NA,"0","0","89","110","0","5","17","16","1","28.6","27.2",NA,NA,NA,NA
-"328","Leo Väisänen","Finland","Elfsborg","Defender","23","1","1",NA,"0",NA,NA,NA,NA,"0","0","0","0","0","0","0","0","0","17.7","0.5",NA,NA,NA,NA
-"329","Jere Uronen","Finland","Genk","Defender","26","3","250",NA,"2",NA,NA,NA,NA,"0","0","76","91","0","2","11","13","0","29.7","28.2",NA,NA,NA,NA
-"330","Jukka Raitala","Finland","Minnesota","Defender","32","3","254",NA,"5",NA,NA,NA,NA,"0","0","61","78","0","6","5","9","2","31.5","25.9",NA,NA,NA,NA
-"331","Glen Kamara","Finland","Rangers","Midfielder","25","3","270",NA,"3",NA,NA,NA,NA,"1","0","151","164","0","4","13",NA,NA,"29.9","29.3","1","0",NA,NA
-"332","Robin Lod","Finland","Minnesota","Midfielder","28","3","269",NA,"3",NA,NA,NA,NA,"1","0","79","103","0","2","11",NA,NA,"29.7","32.6","2","0",NA,NA
-"333","Fredrik Jensen","Finland","Augsburg","Midfielder","23","2","6",NA,"0",NA,NA,NA,NA,"0","0","1","1","0","0","0",NA,NA,"25.4","1.8","0","0",NA,NA
-"334","Rasmus Schüller","Finland","Djurgården","Midfielder","30","3","112",NA,"1",NA,NA,NA,NA,"0","0","43","55","0","7","17",NA,NA,"25.4","15.8","0","0",NA,NA
-"335","Pyry Soiri","Finland","Esbjerg","Midfielder","26","1","15",NA,"0",NA,NA,NA,NA,"0","0","10","10","0","0","3",NA,NA,"24.5","2.4","0","0",NA,NA
-"336","Tim Sparv","Finland","Larissa","Midfielder","34","2","135",NA,"2",NA,NA,NA,NA,"1","0","60","67","0","2","7",NA,NA,"28.1","16.2","0","0",NA,NA
-"337","Nikolai Alho","Finland","MTK","Midfielder","28","1","20",NA,"0",NA,NA,NA,NA,"0","0","5","8","0","0","1",NA,NA,"23.6","2.6","1","0",NA,NA
-"338","Joni Kauko","Finland","Esbjerg","Midfielder","30","3","57",NA,"2",NA,NA,NA,NA,"0","0","23","29","0","0","0",NA,NA,"25","7.9","2","0",NA,NA
-"339","Teemu Pukki","Finland","Norwich","Forward","31","3","240",NA,"4",NA,NA,NA,NA,"0","0","35","47","0",NA,NA,NA,NA,"33.3",NA,"4","0","1","2"
-"340","Joel Pohjanpalo","Finland","Leverkusen","Forward","26","3","244",NA,"4",NA,NA,NA,NA,"0","0","31","50","1",NA,NA,NA,NA,"28.8",NA,"7","0","1","2"
-"341","Lassi Lappalainen","Finland","Montreal","Forward","22","1","15",NA,"0",NA,NA,NA,NA,"0","0","3","4","0",NA,NA,NA,NA,"32.2",NA,"0","0","0","0"
-"342","Marcus Forss","Finland","Brentford","Forward","22","2","7",NA,"1",NA,NA,NA,NA,"0","0","0","2","0",NA,NA,NA,NA,"27.7",NA,"0","0","0","0"
-"343","Péter Gulácsi","Hungary","Leipzig","Goalkeeper","31","3","270","11","0","6","7","3","0","0","0","77","94",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"344","Attila Szalai","Hungary","Fenerbahçe","Defender","23","3","270",NA,"3",NA,NA,NA,NA,"0","0","101","129","0","2","17","12","0","31.3","29.1",NA,NA,NA,NA
-"345","Attila Fiola","Hungary","Fehérvár","Defender","31","3","266",NA,"9",NA,NA,NA,NA,"1","0","51","68","1","11","19","6","1","31.5","29.1",NA,NA,NA,NA
-"346","Willi Orbán","Hungary","Leipzig","Defender","28","3","270",NA,"1",NA,NA,NA,NA,"1","0","81","96","0","3","15","11","2","28.8","27.7",NA,NA,NA,NA
-"347","Loïc Négo","Hungary","Fehérvár","Defender","30","3","205",NA,"2",NA,NA,NA,NA,"1","0","42","56","0","3","6","2","0","33.8","23.8",NA,NA,NA,NA
-"348","Gergő Lovrencsics","Hungary","Ferencváros","Defender","32","3","98",NA,"1",NA,NA,NA,NA,"0","0","23","33","0","2","5","6","0","29.7","11.7",NA,NA,NA,NA
-"349","Endre Botka","Hungary","Ferencváros","Defender","26","3","270",NA,"4",NA,NA,NA,NA,"2","0","49","71","0","11","18","10","1","31.5","27.4",NA,NA,NA,NA
-"350","Ádám Nagy","Hungary","Bristol City","Midfielder","26","3","268",NA,"2",NA,NA,NA,NA,"0","0","99","120","0","4","24",NA,NA,"28.1","34.8","0","0",NA,NA
-"351","Tamás Cseri","Hungary","Mezőkövesd","Midfielder","33","1","15",NA,"0",NA,NA,NA,NA,"0","0","1","1","0","1","1",NA,NA,"25.6","2.3","0","0",NA,NA
-"352","András Schäfer","Hungary","Dunajská Streda","Midfielder","22","3","230",NA,"4",NA,NA,NA,NA,"0","0","57","65","1","7","12",NA,NA,"29.9","30.4","2","0",NA,NA
-"353","László Kleinheisler","Hungary","Osijek","Midfielder","27","3","250",NA,"1",NA,NA,NA,NA,"0","0","51","69","0","5","14",NA,NA,"30.8","27.8","1","0",NA,NA
-"354","Roland Varga","Hungary","MTK","Midfielder","31","1","2",NA,"0",NA,NA,NA,NA,"0","0","1","3","0","0","0",NA,NA,"23.8","0.2","0","0",NA,NA
-"355","Dávid Sigér","Hungary","Ferencváros","Midfielder","30","1","12",NA,"0",NA,NA,NA,NA,"0","0","4","6","0","0","1",NA,NA,"25","2.1","0","0",NA,NA
-"356","Kevin Varga","Hungary","Kasımpaşa","Midfielder","25","2","10",NA,"0",NA,NA,NA,NA,"0","0","3","4","0","0","1",NA,NA,"26.3","2.3","0","0",NA,NA
-"357","Ádám Szalai","Hungary","Mainz","Forward","33","3","198",NA,"4",NA,NA,NA,NA,"1","0","25","39","1",NA,NA,NA,NA,"26.1",NA,"5","1","4","7"
-"358","Roland Sallai","Hungary","Freiburg","Forward","24","3","242",NA,"5",NA,NA,NA,NA,"0","0","37","49","0",NA,NA,NA,NA,"29.2",NA,"8","2","3","8"
-"359","Nemanja Nikolić","Hungary","Fehérvár","Forward","33","2","66",NA,"1",NA,NA,NA,NA,"0","0","13","17","0",NA,NA,NA,NA,"29",NA,"0","0","0","0"
-"360","Szabolcs Schön","Hungary","FC Dallas","Forward","20","2","28",NA,"0",NA,NA,NA,NA,"0","0","5","6","0",NA,NA,NA,NA,"27.4",NA,"0","0","0","0"
-"361","Stole Dimitrievski","North Macedonia","Rayo Vallecano","Goalkeeper","27","3","270","14","0","8","9","9","0","0","0","74","98",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"362","Egzon Bejtulai","North Macedonia","Shkëndija","Defender","27","1","27",NA,"0",NA,NA,NA,NA,"0","0","4","9","0","0","0","0","0","30.2","3.3",NA,NA,NA,NA
-"363","Kire Ristevski","North Macedonia","Újpest","Defender","30","1","5",NA,"0",NA,NA,NA,NA,"0","0","7","7","0","0","1","0","0","21.8","1.2",NA,NA,NA,NA
-"364","Visar Musliu","North Macedonia","Fehérvár","Defender","26","3","266",NA,"5",NA,NA,NA,NA,"1","0","101","111","0","2","22","4","2","29.9","27.6",NA,NA,NA,NA
-"365","Stefan Ristovski","North Macedonia","Dinamo Zagreb","Defender","29","3","270",NA,"3",NA,NA,NA,NA,"1","0","115","143","0","3","20","11","0","30.2","30.5",NA,NA,NA,NA
-"366","Darko Velkoski","North Macedonia","Rijeka","Defender","26","3","265",NA,"4",NA,NA,NA,NA,"1","0","109","129","0","7","22","8","4","27.9","26.6",NA,NA,NA,NA
-"367","Arijan Ademi","North Macedonia","Dinamo Zagreb","Midfielder","30","3","253",NA,"0",NA,NA,NA,NA,"0","0","94","106","0","2","16",NA,NA,"29.2","27.7","1","0",NA,NA
-"368","Ezgjan Alioski","North Macedonia","Leeds","Midfielder","29","3","270",NA,"5",NA,NA,NA,NA,"2","0","94","135","1","6","7",NA,NA,"31","29.9","3","0",NA,NA
-"369","Ferhan Hasani","North Macedonia","Partizani","Midfielder","31","1","22",NA,"0",NA,NA,NA,NA,"0","0","6","8","0","1","2",NA,NA,"25.4","3.2","0","0",NA,NA
-"370","Tihomir Kostadinov","North Macedonia","Ružomberok","Midfielder","25","2","49",NA,"1",NA,NA,NA,NA,"1","0","15","19","0","4","2",NA,NA,"26.1","7.8","0","0",NA,NA
-"371","Boban Nikolov","North Macedonia","Lecce","Midfielder","26","3","120",NA,"0",NA,NA,NA,NA,"0","0","19","29","0","1","3",NA,NA,"31.3","13.2","4","0",NA,NA
-"372","Enis Bardi","North Macedonia","Levante","Midfielder","25","3","237",NA,"2",NA,NA,NA,NA,"0","0","96","121","0","3","13",NA,NA,"27.7","27","5","0",NA,NA
-"373","Stefan Spirovski","North Macedonia","AEK Larnaca","Midfielder","30","1","45",NA,"1",NA,NA,NA,NA,"0","0","13","14","0","3","3",NA,NA,"26.5","5.2","0","0",NA,NA
-"374","Eljif Elmas","North Macedonia","Napoli","Midfielder","21","3","270",NA,"2",NA,NA,NA,NA,"0","0","96","111","0","3","9",NA,NA,"29.9","32","6","0",NA,NA
-"375","Darko Churlinov","North Macedonia","Stuttgart","Midfielder","20","2","79",NA,"0",NA,NA,NA,NA,"0","0","12","17","0","0","4",NA,NA,"31.3","10","0","0",NA,NA
-"376","Milan Ristovski","North Macedonia","Spartak Trnava","Midfielder","23","1","4",NA,"0",NA,NA,NA,NA,"0","0","2","2","0","0","1",NA,NA,"25.7","0.9","0","0",NA,NA
-"377","Ivan Tričkovski","North Macedonia","AEK Larnaca","Forward","34","3","69",NA,"0",NA,NA,NA,NA,"0","0","16","22","0",NA,NA,NA,NA,"27",NA,"0","0","0","1"
-"378","Aleksandar Trajkovski","North Macedonia","Mallorca","Forward","28","3","176",NA,"7",NA,NA,NA,NA,"1","0","47","58","0",NA,NA,NA,NA,"29.5",NA,"6","0","2","0"
-"379","Goran Pandev","North Macedonia","Genoa","Forward","37","3","248",NA,"1",NA,NA,NA,NA,"0","0","44","67","1",NA,NA,NA,NA,"29.5",NA,"2","0","1","8"
-"380","Vlatko Stojanovski","North Macedonia","Chambly","Forward","24","1","12",NA,"0",NA,NA,NA,NA,"0","0","2","2","0",NA,NA,NA,NA,"27",NA,"1","0","0","0"
-"381","Daniel Avramovski","North Macedonia","Kayserispor","Forward","26","1","13",NA,"2",NA,NA,NA,NA,"1","0","4","4","0",NA,NA,NA,NA,"27",NA,"1","0","0","1"
-"382","Wojciech Szczęsny","Poland","Juventus","Goalkeeper","31","3","270","6","0","6","5","2","0","0","0","40","68",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"383","Jan Bednarek","Poland","Southampton","Defender","25","3","265",NA,"1",NA,NA,NA,NA,"0","0","145","161","0","5","18","10","2","29.9","28.2",NA,NA,NA,NA
-"384","Maciej Rybus","Poland","Lokomotiv Moskva","Defender","31","1","74",NA,"4",NA,NA,NA,NA,"0","0","31","35","0","1","3","1","1","29.9","8.5",NA,NA,NA,NA
-"385","Kamil Glik","Poland","Benevento","Defender","33","3","270",NA,"6",NA,NA,NA,NA,"1","0","125","141","0","5","22","11","1","26.1","27.4",NA,NA,NA,NA
-"386","Bartosz Bereszyński","Poland","Sampdoria","Defender","28","3","270",NA,"2",NA,NA,NA,NA,"0","0","145","178","0","6","19","9","1","31.5","29.1",NA,NA,NA,NA
-"387","Tymoteusz Puchacz","Poland","Lech","Defender","22","3","151",NA,"2",NA,NA,NA,NA,"0","0","27","43","0","2","10","2","0","31.3","16.1",NA,NA,NA,NA
-"388","Paweł Dawidowicz","Poland","Verona","Midfielder","26","1","5",NA,"0",NA,NA,NA,NA,"0","0","1","1","0","0","1",NA,NA,"21.6","1.2","0","0",NA,NA
-"389","Kacper Kozłowski","Poland","Pogoń","Midfielder","17","2","52",NA,"1",NA,NA,NA,NA,"0","0","14","17","0","2","3",NA,NA,"27.4","7.8","0","0",NA,NA
-"390","Karol Linetty","Poland","Torino","Midfielder","26","2","79",NA,"3",NA,NA,NA,NA,"0","0","25","33","1","3","3",NA,NA,"27.2","10","3","0",NA,NA
-"391","Grzegorz Krychowiak","Poland","Lokomotiv Moskva","Midfielder","31","2","140",NA,"4",NA,NA,NA,NA,"3","1","66","87","0","5","7",NA,NA,"30.6","16","4","0",NA,NA
-"392","Mateusz Klich","Poland","Leeds","Midfielder","31","3","213",NA,"4",NA,NA,NA,NA,"1","0","82","116","0","3","4",NA,NA,"29.9","25.8","1","0",NA,NA
-"393","Jakub Moder","Poland","Brighton","Midfielder","22","2","90",NA,"3",NA,NA,NA,NA,"1","0","19","29","0","2","4",NA,NA,"30.4","11","0","0",NA,NA
-"394","Przemysław Płacheta","Poland","Norwich","Midfielder","23","1","12",NA,"0",NA,NA,NA,NA,"0","0","6","9","0","0","0",NA,NA,"24.1","2","1","0",NA,NA
-"395","Przemysław Frankowski","Poland","Chicago Fire","Midfielder","26","3","83",NA,"1",NA,NA,NA,NA,"0","0","34","39","0","1","2",NA,NA,"30.2","11.8","0","1",NA,NA
-"396","Piotr Zieliński","Poland","Napoli","Midfielder","27","3","265",NA,"4",NA,NA,NA,NA,"0","0","100","123","0","2","13",NA,NA,"28.1","33","7","1",NA,NA
-"397","Kamil Jóźwiak","Poland","Derby","Midfielder","23","3","241",NA,"5",NA,NA,NA,NA,"1","0","84","111","0","7","13",NA,NA,"31.7","25.9","0","1",NA,NA
-"398","Robert Lewandowski","Poland","Bayern","Forward","32","3","270",NA,"5",NA,NA,NA,NA,"1","0","44","66","3",NA,NA,NA,NA,"31.3",NA,"12","0","4","3"
-"399","Karol Świderski","Poland","PAOK","Forward","24","3","163",NA,"0",NA,NA,NA,NA,"0","0","24","34","0",NA,NA,NA,NA,"28.1",NA,"5","0","1","2"
-"400","Jakub Świerczok","Poland","Ludogorets","Forward","28","1","29",NA,"1",NA,NA,NA,NA,"0","0","6","8","0",NA,NA,NA,NA,"26.5",NA,"1","0","0","0"
-"401","Anton Shunin","Russia","Dynamo Moscow","Goalkeeper","34","1","90","1","0","3","2","2","0","0","0","17","27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"402","Matvei Safonov","Russia","Krasnodar","Goalkeeper","22","2","180","7","0","4","8","3","1","0","0","37","51",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"403","Mário Fernandes","Russia","CSKA Moskva","Defender","30","3","206",NA,"0",NA,NA,NA,NA,"0","0","47","59","0","7","12","2","0","29.5","23.2",NA,NA,NA,NA
-"404","Igor Diveev","Russia","CSKA Moskva","Defender","21","3","225",NA,"3",NA,NA,NA,NA,"1","0","99","124","0","3","20","15","5","28.8","24.5",NA,NA,NA,NA
-"405","Vyacheslav Karavaev","Russia","Zenit","Defender","26","3","134",NA,"0",NA,NA,NA,NA,"0","0","38","50","0","0","8","3","0","32.2","18.5",NA,NA,NA,NA
-"406","Andrei Semenov","Russia","Akhmat","Defender","32","1","90",NA,"0",NA,NA,NA,NA,"0","0","44","54","0","0","9","1","1","30.2","9.9",NA,NA,NA,NA
-"407","Fedor Kudryashov","Russia","Antalyaspor","Defender","34","1","67",NA,"3",NA,NA,NA,NA,"1","0","15","19","0","0","7","0","0","25.4","6.6",NA,NA,NA,NA
-"408","Georgi Dzhikiya","Russia","Spartak Moskva","Defender","27","3","270",NA,"2",NA,NA,NA,NA,"1","0","115","127","0","4","8","8","3","27.9","27",NA,NA,NA,NA
-"409","Denis Cheryshev","Russia","Valencia","Midfielder","30","1","34",NA,"1",NA,NA,NA,NA,"0","0","2","3","0","1","2",NA,NA,"27.4","5","0","0",NA,NA
-"410","Magomed Ozdoev","Russia","Zenit","Midfielder","28","3","212",NA,"4",NA,NA,NA,NA,"1","0","76","97","0","8","13",NA,NA,"29.5","27.7","4","0",NA,NA
-"411","Dmitri Barinov","Russia","Lokomotiv Moskva","Midfielder","24","2","135",NA,"3",NA,NA,NA,NA,"1","0","83","102","0","5","10",NA,NA,"31","16.4","0","0",NA,NA
-"412","Roman Zobnin","Russia","Spartak Moskva","Midfielder","27","3","243",NA,"5",NA,NA,NA,NA,"0","0","94","119","0","8","21",NA,NA,"29.5","30.8","3","0",NA,NA
-"413","Aleksei Miranchuk","Russia","Atalanta","Midfielder","25","3","173",NA,"0",NA,NA,NA,NA,"0","0","47","57","1","1","5",NA,NA,"29.5","20.6","2","0",NA,NA
-"414","Aleksandr Golovin","Russia","Monaco","Midfielder","25","3","270",NA,"4",NA,NA,NA,NA,"0","0","99","128","0","2","8",NA,NA,"31.3","36","5","0",NA,NA
-"415","Yuri Zhirkov","Russia","Zenit","Midfielder","37","1","43",NA,"0",NA,NA,NA,NA,"0","0","14","17","0","0","1",NA,NA,"28.6","4.5","0","0",NA,NA
-"416","Rifat Zhemaletdinov","Russia","Lokomotiv Moskva","Midfielder","24","2","58",NA,"0",NA,NA,NA,NA,"0","0","15","20","0","1","2",NA,NA,"31.7","7.4","2","0",NA,NA
-"417","Daler Kuzyaev","Russia","Zenit","Midfielder","28","3","186",NA,"2",NA,NA,NA,NA,"0","0","81","99","0","1","11",NA,NA,"29","22.8","1","0",NA,NA
-"418","Maksim Mukhin","Russia","Lokomotiv Moskva","Midfielder","19","3","55",NA,"2",NA,NA,NA,NA,"0","0","15","20","0","2","2",NA,NA,"30.4","8.2","0","0",NA,NA
-"419","Aleksandr Sobolev","Russia","Spartak Moskva","Forward","24","2","35",NA,"1",NA,NA,NA,NA,"0","0","8","12","0",NA,NA,NA,NA,"24.8",NA,"0","0","0","2"
-"420","Artem Dzyuba","Russia","Zenit","Forward","32","3","265",NA,"8",NA,NA,NA,NA,"0","0","46","79","1",NA,NA,NA,NA,"30.2",NA,"5","1","2","3"
-"421","David Marshall","Scotland","Derby","Goalkeeper","36","3","270","10","0","5","7","0","1","0","0","61","105",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"422","Stephen O'Donnell","Scotland","Motherwell","Defender","29","3","253",NA,"4",NA,NA,NA,NA,"1","0","59","81","0","6","5","6","0","31.7","29.2",NA,NA,NA,NA
-"423","Andrew Robertson","Scotland","Liverpool","Defender","27","3","270",NA,"4",NA,NA,NA,NA,"0","0","105","134","0","2","13","5","0","32","28.9",NA,NA,NA,NA
-"424","Grant Hanley","Scotland","Norwich","Defender","29","3","213",NA,"1",NA,NA,NA,NA,"0","0","95","106","0","4","21","6","3","32.2","22",NA,NA,NA,NA
-"425","Kieran Tierney","Scotland","Arsenal","Defender","24","2","180",NA,"1",NA,NA,NA,NA,"0","0","70","84","0","1","5","7","0","29.5","18.9",NA,NA,NA,NA
-"426","Liam Cooper","Scotland","Leeds","Defender","29","1","90",NA,"0",NA,NA,NA,NA,"0","0","63","80","0","1","12","2","0","28.4","9.8",NA,NA,NA,NA
-"427","Nathan Patterson","Scotland","Rangers","Defender","19","1","6",NA,"0",NA,NA,NA,NA,"0","0","7","8","0","0","1","0","0","23.9","1.3",NA,NA,NA,NA
-"428","Jack Hendry","Scotland","Celtic","Defender","26","1","67",NA,"0",NA,NA,NA,NA,"0","0","20","24","0","0","3","1","0","28.1","7.2",NA,NA,NA,NA
-"429","Scott McKenna","Scotland","Nottm Forest","Defender","24","1","57",NA,"1",NA,NA,NA,NA,"1","0","14","18","0","1","3","1","0","27","6.6",NA,NA,NA,NA
-"430","Scott McTominay","Scotland","Man. United","Midfielder","24","3","270",NA,"1",NA,NA,NA,NA,"0","0","107","122","0","3","15",NA,NA,"32.2","32.1","4","0",NA,NA
-"431","John McGinn","Scotland","Aston Villa","Midfielder","26","3","270",NA,"3",NA,NA,NA,NA,"1","0","73","88","0","5","16",NA,NA,"28.1","31.4","7","0",NA,NA
-"432","Callum McGregor","Scotland","Celtic","Midfielder","28","3","203",NA,"1",NA,NA,NA,NA,"0","0","84","92","1","4","11",NA,NA,"29","26.9","2","0",NA,NA
-"433","Ryan Christie","Scotland","Celtic","Midfielder","26","1","45",NA,"0",NA,NA,NA,NA,"0","0","10","13","0","0","0",NA,NA,"27.9","5.5","0","0",NA,NA
-"434","Stuart Armstrong","Scotland","Southampton","Midfielder","29","3","151",NA,"2",NA,NA,NA,NA,"0","0","48","59","0","2","6",NA,NA,"29","19.2","2","0",NA,NA
-"435","Ryan Fraser","Scotland","Newcastle","Midfielder","27","2","43",NA,"0",NA,NA,NA,NA,"0","0","13","17","0","0","0",NA,NA,"26.8","5.5","3","0",NA,NA
-"436","Billy Gilmour","Scotland","Chelsea","Midfielder","20","1","76",NA,"2",NA,NA,NA,NA,"0","0","42","47","0","1","4",NA,NA,"27.9","9.3","0","0",NA,NA
-"437","James Forrest","Scotland","Celtic","Midfielder","29","1","11",NA,"0",NA,NA,NA,NA,"0","0","3","5","0","0","0",NA,NA,"27","2","1","0",NA,NA
-"438","Lyndon Dykes","Scotland","QPR","Forward","25","3","259",NA,"4",NA,NA,NA,NA,"0","0","19","41","0",NA,NA,NA,NA,"29.9",NA,"6","0","2","2"
-"439","Ché Adams","Scotland","Southampton","Forward","24","3","215",NA,"3",NA,NA,NA,NA,"0","0","44","53","0",NA,NA,NA,NA,"31.3",NA,"7","0","1","1"
-"440","Kevin Nisbet","Scotland","Hibernian","Forward","24","3","21",NA,"1",NA,NA,NA,NA,"0","0","4","7","0",NA,NA,NA,NA,"25",NA,"2","0","1","0"
-"441","Martin Dúbravka","Slovakia","Newcastle","Goalkeeper","32","3","270","11","1","7","12","3","0","1","0","81","116",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"442","Peter Pekarík","Slovakia","Hertha","Defender","34","3","233",NA,"2",NA,NA,NA,NA,"0","0","111","128","0","1","10","4","1","29.2","24.9",NA,NA,NA,NA
-"443","Ľubomír Šatka","Slovakia","Lech","Defender","25","3","270",NA,"0",NA,NA,NA,NA,"0","0","187","198","0","2","17","10","0","29.5","24.7",NA,NA,NA,NA
-"444","Milan Škriniar","Slovakia","Internazionale","Defender","26","3","270",NA,"3",NA,NA,NA,NA,"1","0","158","170","1","3","15","15","5","28.4","26.5",NA,NA,NA,NA
-"445","Tomáš Hubočan","Slovakia","Omonoia","Defender","35","3","264",NA,"5",NA,NA,NA,NA,"1","0","98","115","0","6","8","10","1","30.8","27.2",NA,NA,NA,NA
-"446","Dávid Hancko","Slovakia","Sparta Praha","Defender","23","1","6",NA,"0",NA,NA,NA,NA,"0","0","6","8","0","1","2","0","0","28.6","1.4",NA,NA,NA,NA
-"447","Martin Koscelník","Slovakia","Liberec","Defender","26","2","101",NA,"2",NA,NA,NA,NA,"0","0","31","37","0","2","7","0","0","29.7","11.3",NA,NA,NA,NA
-"448","Ján Greguš","Slovakia","Minnesota","Midfielder","30","1","1",NA,"1",NA,NA,NA,NA,"0","0","2","2","0","0","0",NA,NA,"24.1","0.5","0","0",NA,NA
-"449","Vladimír Weiss","Slovakia","Slovan Bratislava","Midfielder","31","2","34",NA,"1",NA,NA,NA,NA,"1","0","20","22","0","1","1",NA,NA,"23.9","4.7","1","0",NA,NA
-"450","Ondrej Duda","Slovakia","Köln","Midfielder","26","3","224",NA,"4",NA,NA,NA,NA,"2","0","66","84","0","5","3",NA,NA,"28.8","28.5","2","0",NA,NA
-"451","Tomáš Suslov","Slovakia","Groningen","Midfielder","19","2","24",NA,"0",NA,NA,NA,NA,"0","0","7","8","0","0","1",NA,NA,"26.6","3.9","0","0",NA,NA
-"452","László Bénes","Slovakia","Mönchengladbach","Midfielder","23","2","14",NA,"0",NA,NA,NA,NA,"0","0","11","13","0","0","1",NA,NA,"25.7","3.2","0","0",NA,NA
-"453","Patrik Hrošovský","Slovakia","Genk","Midfielder","29","2","95",NA,"0",NA,NA,NA,NA,"0","0","45","53","0","0","2",NA,NA,"26.1","11.2","0","0",NA,NA
-"454","Marek Hamšík","Slovakia","Göteborg","Midfielder","33","3","256",NA,"0",NA,NA,NA,NA,"0","0","137","154","0","2","6",NA,NA,"27.7","31.2","4","1",NA,NA
-"455","Lukáš Haraslín","Slovakia","Sassuolo","Midfielder","25","3","182",NA,"1",NA,NA,NA,NA,"0","0","29","36","0","2","8",NA,NA,"30.6","19.1","3","0",NA,NA
-"456","Juraj Kucka","Slovakia","Parma","Midfielder","34","3","270",NA,"10",NA,NA,NA,NA,"0","0","87","121","0","7","15",NA,NA,"29.9","32","5","0",NA,NA
-"457","Róbert Mak","Slovakia","Ferencváros","Midfielder","30","3","233",NA,"0",NA,NA,NA,NA,"0","0","49","62","0","2","2",NA,NA,"29.2","25.1","1","1",NA,NA
-"458","Stanislav Lobotka","Slovakia","Napoli","Midfielder","26","1","45",NA,"1",NA,NA,NA,NA,"0","0","25","26","0","1","0",NA,NA,"20.8","5.3","0","0",NA,NA
-"459","Jakub Hromada","Slovakia","Slavia Praha","Midfielder","25","2","124",NA,"3",NA,NA,NA,NA,"0","0","28","37","0","6","6",NA,NA,"26.5","15.4","0","0",NA,NA
-"460","Michal Ďuriš","Slovakia","Omonoia","Forward","33","3","54",NA,"0",NA,NA,NA,NA,"0","0","13","13","0",NA,NA,NA,NA,"27.2",NA,"2","0","0","0"
-"461","Uğurcan Çakır","Turkey","Trabzonspor","Goalkeeper","25","3","270","18","0","8","12","3","0","0","0","70","103",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"462","Zeki Çelik","Turkey","LOSC","Defender","24","3","270",NA,"6",NA,NA,NA,NA,"1","0","114","137","0","5","16","2","1","31.5","30.7",NA,NA,NA,NA
-"463","Merih Demiral","Turkey","Juventus","Defender","23","3","225",NA,"1",NA,NA,NA,NA,"0","0","118","133","0","1","16","16","2","29.7","24.1",NA,NA,NA,NA
-"464","Çağlar Söyüncü","Turkey","Leicester","Defender","25","3","270",NA,"6",NA,NA,NA,NA,"2","0","167","179","0","4","15","6","5","32","27.8",NA,NA,NA,NA
-"465","Umut Meraş","Turkey","Le Havre","Defender","25","2","162",NA,"2",NA,NA,NA,NA,"0","0","56","65","0","2","10","2","0","30.2","16.6",NA,NA,NA,NA
-"466","Kaan Ayhan","Turkey","Sassuolo","Defender","26","3","179",NA,"2",NA,NA,NA,NA,"0","0","119","132","0","2","6","5","0","30.4","20",NA,NA,NA,NA
-"467","Mert Müldür","Turkey","Sassuolo","Defender","22","2","108",NA,"1",NA,NA,NA,NA,"0","0","46","54","0","1","5","4","0","32.4","12.6",NA,NA,NA,NA
-"468","Okay Yokuşlu","Turkey","Celta","Midfielder","27","3","137",NA,"1",NA,NA,NA,NA,"0","0","64","69","0","4","12",NA,NA,"27.2","16.2","0","0",NA,NA
-"469","Ozan Tufan","Turkey","Fenerbahçe","Midfielder","26","3","172",NA,"1",NA,NA,NA,NA,"0","0","78","86","0","1","7",NA,NA,"30.8","19.8","2","0",NA,NA
-"470","Dorukhan Toköz","Turkey","Beşiktaş","Midfielder","25","1","4",NA,"1",NA,NA,NA,NA,"0","0","2","3","0","0","1",NA,NA,"29.5","1","0","0",NA,NA
-"471","Hakan Çalhanoğlu","Turkey","Milan","Midfielder","27","3","266",NA,"7",NA,NA,NA,NA,"2","0","117","142","0","6","5",NA,NA,"31.3","30.3","1","1",NA,NA
-"472","Orkun Kökçü","Turkey","Feyenoord","Midfielder","20","1","10",NA,"0",NA,NA,NA,NA,"0","0","4","5","0","0","0",NA,NA,"28.8","1.6","0","0",NA,NA
-"473","İrfan Can Kahveci","Turkey","Fenerbahçe","Midfielder","25","3","112",NA,"4",NA,NA,NA,NA,"0","0","54","70","1","2","6",NA,NA,"31.3","13.6","2","0",NA,NA
-"474","Halil Dervişoğlu","Turkey","Brentford","Midfielder","21","2","29",NA,"2",NA,NA,NA,NA,"1","0","3","5","0","2","0",NA,NA,"23.2","4.1","1","0",NA,NA
-"475","Cengiz Ünder","Turkey","Roma","Forward","23","3","208",NA,"3",NA,NA,NA,NA,"0","0","53","68","0",NA,NA,NA,NA,"32",NA,"8","0","1","3"
-"476","Kenan Karaman","Turkey","Düsseldorf","Forward","27","3","161",NA,"3",NA,NA,NA,NA,"0","0","25","38","0",NA,NA,NA,NA,"28.4",NA,"2","0","0","2"
-"477","Yusuf Yazıcı","Turkey","LOSC","Forward","24","3","117",NA,"1",NA,NA,NA,NA,"0","0","49","56","0",NA,NA,NA,NA,"29",NA,"1","0","0","2"
-"478","Burak Yılmaz","Turkey","LOSC","Forward","35","3","270",NA,"7",NA,NA,NA,NA,"1","0","48","64","0",NA,NA,NA,NA,"31.5",NA,"9","0","1","2"
+"91","Unai Simón","Spain","Athletic Club","Goalkeeper","24","4","390","5","0","4","12","1","2","0","0","116","123",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","César Azpilicueta","Spain","Chelsea","Defender","31","2","197",NA,"1",NA,NA,NA,NA,"0","0","117","136","1","1","14","3","1","29.5","20.3",NA,NA,NA,NA
+"93","Pau Torres","Spain","Villarreal","Defender","24","4","248",NA,"2",NA,NA,NA,NA,"1","0","255","272","0","0","17","2","1","28.1","27.7",NA,NA,NA,NA
+"94","Eric García","Spain","Man. City","Defender","20","2","142",NA,"2",NA,NA,NA,NA,"0","0","151","156","0","2","7","2","0","30.4","14.6",NA,NA,NA,NA
+"95","José Gayà","Spain","Valencia","Defender","26","1","77",NA,"0",NA,NA,NA,NA,"0","0","44","48","0","0","4","1","0","31","7.4",NA,NA,NA,NA
+"96","Jordi Alba","Spain","Barcelona","Defender","32","4","313",NA,"4",NA,NA,NA,NA,"1","0","285","334","0","3","22","3","0","31.3","36.8",NA,NA,NA,NA
+"97","Aymeric Laporte","Spain","Man. City","Defender","27","4","390",NA,"4",NA,NA,NA,NA,"0","0","390","403","1","5","20","6","1","30.4","40.7",NA,NA,NA,NA
+"98","Sergio Busquets","Spain","Barcelona","Midfielder","32","2","172",NA,"4",NA,NA,NA,NA,"1","0","132","146","0","9","10",NA,NA,"25.9","20.2","0","0",NA,NA
+"99","Marcos Llorente","Spain","Atlético","Midfielder","26","2","180",NA,"2",NA,NA,NA,NA,"0","0","191","214","0","0","8",NA,NA,"33.3","19.8","0","0",NA,NA
+"100","Koke","Spain","Atlético","Midfielder","29","4","322",NA,"5",NA,NA,NA,NA,"0","0","290","331","0","6","12",NA,NA,"27","40.7","5","0",NA,NA
+"101","Thiago Alcántara","Spain","Liverpool","Midfielder","30","2","43",NA,"0",NA,NA,NA,NA,"0","0","52","60","0","0","5",NA,NA,"24.5","6.4","1","0",NA,NA
+"102","Ferran Torres","Spain","Man. City","Midfielder","21","4","215",NA,"1",NA,NA,NA,NA,"0","0","70","85","2","1","5",NA,NA,"30.6","23.3","5","1",NA,NA
+"103","Rodri","Spain","Man. City","Midfielder","25","3","175",NA,"2",NA,NA,NA,NA,"1","0","141","153","0","3","9",NA,NA,"27.2","22.4","2","0",NA,NA
+"104","Fabián Ruiz","Spain","Napoli","Midfielder","25","3","68",NA,"1",NA,NA,NA,NA,"0","0","56","64","0","0","3",NA,NA,"28.8","11.1","1","0",NA,NA
+"105","Dani Olmo","Spain","Leipzig","Midfielder","23","3","184",NA,"2",NA,NA,NA,NA,"0","0","78","102","0","0","2",NA,NA,"28.6","20.8","10","2",NA,NA
+"106","Adama Traoré","Spain","Wolves","Midfielder","25","1","13",NA,"0",NA,NA,NA,NA,"0","0","13","15","0","0","0",NA,NA,"25","1.7","0","0",NA,NA
+"107","Pablo Sarabia","Spain","Paris","Midfielder","29","4","207",NA,"1",NA,NA,NA,NA,"0","0","110","133","2","1","5",NA,NA,"27.4","25.4","8","2",NA,NA
+"108","Álvaro Morata","Spain","Atlético","Forward","28","4","339",NA,"6",NA,NA,NA,NA,"0","0","88","108","2",NA,NA,NA,NA,"32",NA,"14","0","8","13"
+"109","Gerard Moreno","Spain","Villarreal","Forward","29","3","161",NA,"1",NA,NA,NA,NA,"0","0","54","73","0",NA,NA,NA,NA,"26.5",NA,"8","2","2","5"
+"110","Mikel Oyarzabal","Spain","Real Sociedad","Forward","24","4","64",NA,"0",NA,NA,NA,NA,"0","0","35","43","1",NA,NA,NA,NA,"30.6",NA,"4","0","1","1"
+"111","Pedri","Spain","Barcelona","Forward","18","4","390",NA,"2",NA,NA,NA,NA,"0","0","277","305","0",NA,NA,NA,NA,"29.7",NA,"0","0","0","10"
+"112","Yann Sommer","Switzerland","Mönchengladbach","Goalkeeper","32","4","390","11","0","8","9","3","0","0","0","104","122",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","Kevin Mbabu","Switzerland","Wolfsburg","Defender","26","4","196",NA,"4",NA,NA,NA,NA,"1","0","60","80","0","9","12","2","2","32.4","20.4",NA,NA,NA,NA
+"114","Silvan Widmer","Switzerland","Basel","Defender","28","3","194",NA,"1",NA,NA,NA,NA,"0","0","83","98","0","4","6","3","0","32.2","22.8",NA,NA,NA,NA
+"115","Nico Elvedi","Switzerland","Mönchengladbach","Defender","24","4","390",NA,"1",NA,NA,NA,NA,"1","0","193","208","0","6","17","13","1","30.2","37.3",NA,NA,NA,NA
+"116","Manuel Akanji","Switzerland","Dortmund","Defender","25","4","390",NA,"3",NA,NA,NA,NA,"1","0","235","254","0","9","32","11","4","32.2","36.7",NA,NA,NA,NA
+"117","Ricardo Rodríguez","Switzerland","Torino","Defender","28","4","357",NA,"2",NA,NA,NA,NA,"1","0","173","200","0","4","14","7","3","29","37",NA,NA,NA,NA
+"118","Loris Benito","Switzerland","Bordeaux","Defender","29","1","5",NA,"0",NA,NA,NA,NA,"0","0","2","4","0","0","0","0","0","32.2","0.9",NA,NA,NA,NA
+"119","Fabian Schär","Switzerland","Newcastle","Defender","29","3","170",NA,"3",NA,NA,NA,NA,"1","0","108","119","0","3","9","2","0","27","15.4",NA,NA,NA,NA
+"120","Denis Zakaria","Switzerland","Mönchengladbach","Midfielder","24","1","24",NA,"1",NA,NA,NA,NA,"0","0","7","8","0","0","0",NA,NA,"27","2.8","1","0",NA,NA
+"121","Remo Freuler","Switzerland","Atalanta","Midfielder","29","4","384",NA,"6",NA,NA,NA,NA,"0","0","213","228","0","5","17",NA,NA,"29.7","46.3","0","0",NA,NA
+"122","Granit Xhaka","Switzerland","Arsenal","Midfielder","28","4","390",NA,"8",NA,NA,NA,NA,"2","0","285","310","0","10","26",NA,NA,"30.6","44.9","5","1",NA,NA
+"123","Ruben Vargas","Switzerland","Augsburg","Midfielder","22","3","70",NA,"0",NA,NA,NA,NA,"0","0","26","33","0","0","1",NA,NA,"30.2","9.5","1","0",NA,NA
+"124","Steven Zuber","Switzerland","Frankfurt","Midfielder","29","3","197",NA,"2",NA,NA,NA,NA,"0","0","80","97","0","3","2",NA,NA,"32","22.6","5","4",NA,NA
+"125","Djibril Sow","Switzerland","Frankfurt","Midfielder","24","1","6",NA,"0",NA,NA,NA,NA,"0","0","4","6","0","0","2",NA,NA,"24.8","1.3","1","0",NA,NA
+"126","Christian Fassnacht","Switzerland","Young Boys","Midfielder","27","1","41",NA,"0",NA,NA,NA,NA,"0","0","6","8","0","1","1",NA,NA,"32","5.6","0","0",NA,NA
+"127","Xherdan Shaqiri","Switzerland","Liverpool","Midfielder","29","4","290",NA,"5",NA,NA,NA,NA,"0","0","96","115","2","0","4",NA,NA,"29.5","32.9","9","1",NA,NA
+"128","Breel Embolo","Switzerland","Mönchengladbach","Forward","24","4","344",NA,"3",NA,NA,NA,NA,"1","0","88","108","1",NA,NA,NA,NA,"32.8",NA,"11","0","4","8"
+"129","Haris Seferović","Switzerland","Benfica","Forward","29","4","301",NA,"6",NA,NA,NA,NA,"0","0","62","82","3",NA,NA,NA,NA,"32.4",NA,"12","0","5","2"
+"130","Admir Mehmedi","Switzerland","Wolfsburg","Forward","30","2","38",NA,"1",NA,NA,NA,NA,"0","0","19","23","0",NA,NA,NA,NA,"26.3",NA,"2","0","1","1"
+"131","Mario Gavranović","Switzerland","Dinamo Zagreb","Forward","31","4","113",NA,"2",NA,NA,NA,NA,"1","0","18","25","1",NA,NA,NA,NA,"26.3",NA,"1","0","1","1"
+"132","Daniel Bachmann","Austria","Watford","Goalkeeper","26","4","390","8","0","5","15","2","1","1","0","120","153",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","Andreas Ulmer","Austria","Salzburg","Defender","35","2","180",NA,"0",NA,NA,NA,NA,"0","0","59","81","0","0","4","2","1","30.4","20.7",NA,NA,NA,NA
+"134","Aleksandar Dragović","Austria","Leverkusen","Defender","30","4","339",NA,"5",NA,NA,NA,NA,"1","0","214","241","0","6","27","10","5","29.7","34.1",NA,NA,NA,NA
+"135","Martin Hinteregger","Austria","Frankfurt","Defender","28","4","390",NA,"7",NA,NA,NA,NA,"1","0","238","276","0","9","32","8","3","32.4","40.5",NA,NA,NA,NA
+"136","David Alaba","Austria","Bayern","Defender","29","4","390",NA,"3",NA,NA,NA,NA,"1","0","261","322","0","5","25","11","0","30.6","43.4",NA,NA,NA,NA
+"137","Philipp Lienhart","Austria","Freiburg","Defender","24","2","51",NA,"0",NA,NA,NA,NA,"0","0","37","43","0","0","2","0","0","27","6.7",NA,NA,NA,NA
+"138","Stefan Lainer","Austria","Mönchengladbach","Defender","28","4","384",NA,"3",NA,NA,NA,NA,"1","0","137","194","1","14","27","15","1","31.7","44.9",NA,NA,NA,NA
+"139","Stefan Ilsanker","Austria","Frankfurt","Midfielder","32","3","25",NA,"1",NA,NA,NA,NA,"0","0","13","16","0","1","4",NA,NA,"31","3.7","0","0",NA,NA
+"140","Marcel Sabitzer","Austria","Leipzig","Midfielder","27","4","390",NA,"7",NA,NA,NA,NA,"0","0","205","235","0","6","15",NA,NA,"31.5","48.7","12","1",NA,NA
+"141","Florian Grillitsch","Austria","Hoffenheim","Midfielder","25","3","224",NA,"2",NA,NA,NA,NA,"0","0","153","172","0","8","14",NA,NA,"28.8","27.8","1","0",NA,NA
+"142","Julian Baumgartlinger","Austria","Leverkusen","Midfielder","33","1","1",NA,"0",NA,NA,NA,NA,"0","0","2","2","0","0","0",NA,NA,"15.7","0.3","0","0",NA,NA
+"143","Christopher Trimmel","Austria","Union Berlin","Midfielder","34","1","6",NA,"0",NA,NA,NA,NA,"0","0","3","3","0","0","2",NA,NA,"28.6","1","0","0",NA,NA
+"144","Louis Schaub","Austria","Luzern","Midfielder","26","1","15",NA,"0",NA,NA,NA,NA,"0","0","5","7","0","0","0",NA,NA,"25.6","1.8","2","1",NA,NA
+"145","Alessandro Schöpf","Austria","Schalke","Midfielder","27","2","88",NA,"1",NA,NA,NA,NA,"0","0","37","43","0","1","4",NA,NA,"29.7","12.7","1","0",NA,NA
+"146","Christoph Baumgartner","Austria","Hoffenheim","Midfielder","21","4","250",NA,"5",NA,NA,NA,NA,"0","0","68","94","1","2","12",NA,NA,"29.9","28.1","4","0",NA,NA
+"147","Karim Onisiwo","Austria","Mainz","Midfielder","29","1","6",NA,"0",NA,NA,NA,NA,"0","0","1","1","0","0","0",NA,NA,"29.9","1.4","1","0",NA,NA
+"148","Valentino Lazaro","Austria","Mönchengladbach","Midfielder","25","1","20",NA,"0",NA,NA,NA,NA,"0","0","14","15","0","0","1",NA,NA,"29.7","3","0","0",NA,NA
+"149","Xaver Schlager","Austria","Wolfsburg","Midfielder","23","4","368",NA,"3",NA,NA,NA,NA,"0","0","129","160","0","6","22",NA,NA,"30.4","42.8","5","0",NA,NA
+"150","Konrad Laimer","Austria","Leipzig","Midfielder","24","4","336",NA,"11",NA,NA,NA,NA,"0","0","89","121","0","5","10",NA,NA,"32.4","39.4","2","1",NA,NA
+"151","Marko Arnautović","Austria","Shanghai SIPG","Forward","32","3","217",NA,"5",NA,NA,NA,NA,"1","0","45","63","1",NA,NA,NA,NA,"31.5",NA,"8","0","3","3"
+"152","Michael Gregoritsch","Austria","Augsburg","Forward","27","3","108",NA,"1",NA,NA,NA,NA,"0","0","22","26","1",NA,NA,NA,NA,"28.8",NA,"3","0","2","3"
+"153","Sasa Kalajdzic","Austria","Stuttgart","Forward","23","4","112",NA,"1",NA,NA,NA,NA,"0","0","30","38","1",NA,NA,NA,NA,"27.2",NA,"5","0","2","0"
+"154","Dominik Livaković","Croatia","Dinamo Zagreb","Goalkeeper","26","4","390","10","0","8","14","3","0","0","0","97","121",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","Šime Vrsaljko","Croatia","Atlético","Defender","29","2","180",NA,"2",NA,NA,NA,NA,"0","0","70","91","0","5","11","6","1","30.2","19.1",NA,NA,NA,NA
+"156","Borna Barišić","Croatia","Rangers","Defender","28","1","20",NA,"0",NA,NA,NA,NA,"0","0","10","13","0","0","1","1","0","23.2","2.5",NA,NA,NA,NA
+"157","Duje Ćaleta-Car","Croatia","Marseille","Defender","24","2","210",NA,"6",NA,NA,NA,NA,"2","0","92","97","0","2","16","8","0","29.2","20.6",NA,NA,NA,NA
+"158","Dejan Lovren","Croatia","Zenit","Defender","31","2","180",NA,"3",NA,NA,NA,NA,"2","0","100","111","0","2","13","11","2","26.6","17.6",NA,NA,NA,NA
+"159","Domagoj Vida","Croatia","Beşiktaş","Defender","32","4","390",NA,"5",NA,NA,NA,NA,"0","0","168","179","0","4","25","9","3","32","37.2",NA,NA,NA,NA
+"160","Josip Juranović","Croatia","Legia","Defender","25","2","163",NA,"0",NA,NA,NA,NA,"0","0","69","78","0","0","6","3","0","32.2","16.7",NA,NA,NA,NA
+"161","Joško Gvardiol","Croatia","Dinamo Zagreb","Defender","19","4","370",NA,"4",NA,NA,NA,NA,"0","0","140","170","0","8","20","7","1","33.3","38.3",NA,NA,NA,NA
+"162","Ivan Perišić","Croatia","Internazionale","Midfielder","32","3","261",NA,"1",NA,NA,NA,NA,"0","0","62","85","2","2","5",NA,NA,"31.5","27.1","7","1",NA,NA
+"163","Mateo Kovačić","Croatia","Chelsea","Midfielder","27","4","341",NA,"4",NA,NA,NA,NA,"1","0","197","226","0","4","14",NA,NA,"29.7","37.4","4","1",NA,NA
+"164","Luka Modrić","Croatia","Real Madrid","Midfielder","35","4","384",NA,"3",NA,NA,NA,NA,"0","0","258","286","1","6","14",NA,NA,"27.9","39.3","3","1",NA,NA
+"165","Marcelo Brozović","Croatia","Internazionale","Midfielder","28","4","283",NA,"7",NA,NA,NA,NA,"2","0","203","221","0","10","11",NA,NA,"27","37.1","1","0",NA,NA
+"166","Nikola Vlašić","Croatia","CSKA Moskva","Midfielder","23","4","203",NA,"2",NA,NA,NA,NA,"0","0","49","58","1","0","3",NA,NA,"30.6","22.4","3","0",NA,NA
+"167","Mario Pašalić","Croatia","Atalanta","Midfielder","26","2","46",NA,"0",NA,NA,NA,NA,"0","0","23","24","1","1","2",NA,NA,"31.5","7.4","3","0",NA,NA
+"168","Mislav Oršić","Croatia","Dinamo Zagreb","Midfielder","28","1","53",NA,"1",NA,NA,NA,NA,"0","0","8","16","1","1","1",NA,NA,"29","6.2","2","1",NA,NA
+"169","Luka Ivanušec","Croatia","Dinamo Zagreb","Midfielder","22","3","65",NA,"0",NA,NA,NA,NA,"0","0","18","23","0","0","1",NA,NA,"29","8.9","1","0",NA,NA
+"170","Josip Brekalo","Croatia","Wolfsburg","Forward","23","3","112",NA,"2",NA,NA,NA,NA,"0","0","34","43","0",NA,NA,NA,NA,"28.4",NA,"0","0","0","0"
+"171","Andrej Kramarić","Croatia","Hoffenheim","Forward","30","4","227",NA,"0",NA,NA,NA,NA,"0","0","54","61","0",NA,NA,NA,NA,"29.9",NA,"4","1","2","3"
+"172","Ante Budimir","Croatia","Osasuna","Forward","29","1","41",NA,"2",NA,NA,NA,NA,"0","0","6","7","0",NA,NA,NA,NA,"28.8",NA,"2","0","0","0"
+"173","Ante Rebić","Croatia","Milan","Forward","27","4","199",NA,"7",NA,NA,NA,NA,"0","0","23","42","0",NA,NA,NA,NA,"31.3",NA,"5","0","1","1"
+"174","Bruno Petković","Croatia","Dinamo Zagreb","Forward","26","4","172",NA,"4",NA,NA,NA,NA,"0","0","36","50","0",NA,NA,NA,NA,"27.9",NA,"2","0","0","7"
+"175","Jordan Pickford","England","Everton","Goalkeeper","27","4","360","7","0","0","18","4","4","0","0","106","140",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","Kyle Walker","England","Man. City","Defender","31","3","270",NA,"1",NA,NA,NA,NA,"0","0","136","154","0","0","23","12","0","32.8","26.8",NA,NA,NA,NA
+"177","Luke Shaw","England","Man. United","Defender","25","3","270",NA,"4",NA,NA,NA,NA,"0","0","134","157","0","3","16","1","1","31","29.7",NA,NA,NA,NA
+"178","John Stones","England","Man. City","Defender","27","4","349",NA,"1",NA,NA,NA,NA,"0","0","236","246","0","3","15","7","5","29.2","34.1",NA,NA,NA,NA
+"179","Harry Maguire","England","Man. United","Defender","28","2","180",NA,"2",NA,NA,NA,NA,"1","0","109","118","0","3","9","9","2","30.6","18.5",NA,NA,NA,NA
+"180","Kieran Trippier","England","Atlético","Defender","30","2","180",NA,"1",NA,NA,NA,NA,"0","0","89","112","0","4","12","1","0","29.7","20.1",NA,NA,NA,NA
+"181","Tyrone Mings","England","Aston Villa","Defender","28","3","191",NA,"1",NA,NA,NA,NA,"0","0","119","131","0","4","10","7","1","30.6","19.4",NA,NA,NA,NA
+"182","Reece James","England","Chelsea","Defender","21","1","90",NA,"0",NA,NA,NA,NA,"0","0","84","85","0","0","3","0","1","29.2","9",NA,NA,NA,NA
+"183","Declan Rice","England","West Ham","Midfielder","22","4","312",NA,"5",NA,NA,NA,NA,"1","0","180","195","0","7","13",NA,NA,"30.4","36.2","0","0",NA,NA
+"184","Jack Grealish","England","Aston Villa","Midfielder","25","3","115",NA,"4",NA,NA,NA,NA,"0","0","42","48","0","1","2",NA,NA,"29.2","14.4","0","2",NA,NA
+"185","Jordan Henderson","England","Liverpool","Midfielder","31","2","48",NA,"1",NA,NA,NA,NA,"0","0","23","27","0","0","0",NA,NA,"28.6","6.8","0","0",NA,NA
+"186","Kalvin Phillips","England","Leeds","Midfielder","25","4","360",NA,"9",NA,NA,NA,NA,"1","0","167","192","0","9","13",NA,NA,"30.2","43.8","1","1",NA,NA
+"187","Jadon Sancho","England","Dortmund","Midfielder","21","1","6",NA,"0",NA,NA,NA,NA,"0","0","3","3","0","0","0",NA,NA,"28.8","1.3","0","0",NA,NA
+"188","Mason Mount","England","Chelsea","Midfielder","22","2","180",NA,"2",NA,NA,NA,NA,"0","0","63","73","0","1","6",NA,NA,"31.5","19.7","4","0",NA,NA
+"189","Phil Foden","England","Man. City","Midfielder","21","2","134",NA,"3",NA,NA,NA,NA,"1","0","46","54","0","0","0",NA,NA,"31.5","15.8","2","0",NA,NA
+"190","Bukayo Saka","England","Arsenal","Midfielder","19","2","153",NA,"2",NA,NA,NA,NA,"0","0","41","54","0","0","2",NA,NA,"31.3","17.5","0","0",NA,NA
+"191","Jude Bellingham","England","Dortmund","Midfielder","18","2","31",NA,"1",NA,NA,NA,NA,"0","0","10","13","0","1","1",NA,NA,"26.5","4.5","0","0",NA,NA
+"192","Harry Kane","England","Tottenham","Forward","27","4","336",NA,"1",NA,NA,NA,NA,"0","0","50","74","1",NA,NA,NA,NA,"30.8",NA,"6","0","2","6"
+"193","Raheem Sterling","England","Man. City","Forward","26","4","336",NA,"5",NA,NA,NA,NA,"0","0","89","110","3",NA,NA,NA,NA,"33.1",NA,"7","0","4","3"
+"194","Marcus Rashford","England","Man. United","Forward","23","3","58",NA,"1",NA,NA,NA,NA,"0","0","16","23","0",NA,NA,NA,NA,"31.3",NA,"0","0","0","0"
+"195","Dominic Calvert-Lewin","England","Everton","Forward","24","1","1",NA,"0",NA,NA,NA,NA,"0","0","0","0","0",NA,NA,NA,NA,"19.7",NA,"0","0","0","0"
+"196","Hugo Lloris","France","Tottenham","Goalkeeper","34","4","390","8","1","6","14","0","1","1","0","91","108",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"197","Benjamin Pavard","France","Bayern","Defender","25","3","300",NA,"5",NA,NA,NA,NA,"2","0","161","179","0","7","13","4","0","31","34.6",NA,NA,NA,NA
+"198","Presnel Kimpembe","France","Paris","Defender","25","4","390",NA,"6",NA,NA,NA,NA,"1","0","270","288","0","9","26","4","0","31.5","37.2",NA,NA,NA,NA
+"199","Raphaël Varane","France","Real Madrid","Defender","28","4","390",NA,"2",NA,NA,NA,NA,"1","0","271","288","0","4","23","15","2","32.6","40.8",NA,NA,NA,NA
+"200","Clément Lenglet","France","Barcelona","Defender","26","1","45",NA,"0",NA,NA,NA,NA,"0","0","45","46","0","0","4","2","1","23.9","4.7",NA,NA,NA,NA
+"201","Lucas Digne","France","Everton","Defender","27","2","97",NA,"2",NA,NA,NA,NA,"0","0","56","67","0","0","6","0","0","28.1","10.8",NA,NA,NA,NA
+"202","Lucas Hernández","France","Bayern","Defender","25","2","135",NA,"3",NA,NA,NA,NA,"1","0","61","67","0","1","2","8","0","26.6","14.7",NA,NA,NA,NA
+"203","Jules Koundé","France","Sevilla","Defender","22","1","90",NA,"2",NA,NA,NA,NA,"0","0","36","43","0","1","4","1","0","29.9","9.8",NA,NA,NA,NA
+"204","Paul Pogba","France","Man. United","Midfielder","28","4","376",NA,"7",NA,NA,NA,NA,"0","0","249","280","1","7","11",NA,NA,"29.5","41.8","8","1",NA,NA
+"205","Thomas Lemar","France","Atlético","Midfielder","25","1","3",NA,"0",NA,NA,NA,NA,"0","0","6","7","0","0","0",NA,NA,"23.2","0.8","0","0",NA,NA
+"206","Corentin Tolisso","France","Bayern","Midfielder","26","3","81",NA,"1",NA,NA,NA,NA,"0","0","63","65","0","1","3",NA,NA,"28.8","10.5","1","0",NA,NA
+"207","N'Golo Kanté","France","Chelsea","Midfielder","30","4","390",NA,"8",NA,NA,NA,NA,"0","0","234","251","0","10","25",NA,NA,"28.8","46.2","1","0",NA,NA
+"208","Adrien Rabiot","France","Juventus","Midfielder","26","4","304",NA,"7",NA,NA,NA,NA,"0","0","168","190","0","1","20",NA,NA,"30.6","35.2","3","0",NA,NA
+"209","Moussa Sissoko","France","Tottenham","Midfielder","31","2","35",NA,"0",NA,NA,NA,NA,"0","0","12","16","0","0","0",NA,NA,"31.5","4.4","1","0",NA,NA
+"210","Kingsley Coman","France","Bayern","Midfielder","25","2","90",NA,"1",NA,NA,NA,NA,"1","0","32","41","0","0","3",NA,NA,"33.7","10","4","0",NA,NA
+"211","Antoine Griezmann","France","Barcelona","Forward","30","4","355",NA,"2",NA,NA,NA,NA,"1","0","158","187","1",NA,NA,NA,NA,"30.2",NA,"7","1","3","5"
+"212","Olivier Giroud","France","Chelsea","Forward","34","2","40",NA,"1",NA,NA,NA,NA,"0","0","7","9","0",NA,NA,NA,NA,"28.8",NA,"2","0","1","0"
+"213","Kylian Mbappé","France","Paris","Forward","22","4","390",NA,"2",NA,NA,NA,NA,"0","0","88","110","0",NA,NA,NA,NA,"32.2",NA,"14","1","3","4"
+"214","Ousmane Dembélé","France","Barcelona","Forward","24","2","31",NA,"0",NA,NA,NA,NA,"0","0","6","11","0",NA,NA,NA,NA,"28.1",NA,"1","0","0","1"
+"215","Karim Benzema","France","Real Madrid","Forward","33","4","349",NA,"0",NA,NA,NA,NA,"0","0","117","134","4",NA,NA,NA,NA,"29.5",NA,"11","0","5","0"
+"216","Marcus Thuram","France","Mönchengladbach","Forward","23","1","9",NA,"1",NA,NA,NA,NA,"0","0","2","3","0",NA,NA,NA,NA,"23.8",NA,"0","0","0","0"
+"217","Manuel Neuer","Germany","Bayern","Goalkeeper","35","4","360","5","0","7","9","1","0","0","0","126","144",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218","Antonio Rüdiger","Germany","Chelsea","Defender","28","4","360",NA,"3",NA,NA,NA,NA,"0","0","285","299","0","3","17","10","0","31","35.6",NA,NA,NA,NA
+"219","Marcel Halstenberg","Germany","Leipzig","Defender","29","1","28",NA,"0",NA,NA,NA,NA,"0","0","5","6","0","0","1","0","0","28.8","3.3",NA,NA,NA,NA
+"220","Matthias Ginter","Germany","Mönchengladbach","Defender","27","4","347",NA,"4",NA,NA,NA,NA,"2","0","268","296","0","8","22","7","2","30.8","35",NA,NA,NA,NA
+"221","Mats Hummels","Germany","Dortmund","Defender","32","4","332",NA,"1",NA,NA,NA,NA,"0","0","301","312","0","8","26","15","2","27.9","33.6",NA,NA,NA,NA
+"222","Niklas Süle","Germany","Bayern","Defender","25","1","17",NA,"0",NA,NA,NA,NA,"0","0","8","8","0","0","1","2","0","26.5","2.1",NA,NA,NA,NA
+"223","Robin Gosens","Germany","Atalanta","Defender","26","4","319",NA,"3",NA,NA,NA,NA,"1","0","141","167","1","9","11","8","0","30.4","37.7",NA,NA,NA,NA
+"224","Emre Can","Germany","Dortmund","Defender","27","3","33",NA,"0",NA,NA,NA,NA,"0","0","41","44","0","1","3","1","0","27","5",NA,NA,NA,NA
+"225","Joshua Kimmich","Germany","Bayern","Midfielder","26","4","360",NA,"2",NA,NA,NA,NA,"1","0","206","243","0","3","11",NA,NA,"30.2","44.6","1","2",NA,NA
+"226","Toni Kroos","Germany","Real Madrid","Midfielder","31","4","360",NA,"6",NA,NA,NA,NA,"0","0","353","390","0","10","24",NA,NA,"26.8","41.2","4","0",NA,NA
+"227","Serge Gnabry","Germany","Bayern","Midfielder","25","4","249",NA,"4",NA,NA,NA,NA,"0","0","62","78","0","6","6",NA,NA,"30.8","27.1","4","0",NA,NA
+"228","Jamal Musiala","Germany","Bayern","Midfielder","18","2","9",NA,"0",NA,NA,NA,NA,"0","0","5","5","0","1","1",NA,NA,"22.9","1.9","0","0",NA,NA
+"229","Leon Goretzka","Germany","Bayern","Midfielder","26","3","139",NA,"3",NA,NA,NA,NA,"0","0","71","77","1","4","6",NA,NA,"29.5","16.5","5","0",NA,NA
+"230","Leroy Sané","Germany","Bayern","Midfielder","25","4","112",NA,"1",NA,NA,NA,NA,"1","0","51","63","0","0","1",NA,NA,"32.2","14","1","0",NA,NA
+"231","İlkay Gündoğan","Germany","Man. City","Midfielder","30","3","221",NA,"3",NA,NA,NA,NA,"1","0","178","191","0","1","10",NA,NA,"30.4","26.3","1","0",NA,NA
+"232","Kai Havertz","Germany","Chelsea","Forward","22","4","304",NA,"9",NA,NA,NA,NA,"1","0","99","120","2",NA,NA,NA,NA,"29.9",NA,"11","0","5","5"
+"233","Kevin Volland","Germany","Monaco","Forward","28","2","10",NA,"0",NA,NA,NA,NA,"0","0","6","8","0",NA,NA,NA,NA,"29.2",NA,"0","0","0","0"
+"234","Timo Werner","Germany","Chelsea","Forward","25","3","108",NA,"0",NA,NA,NA,NA,"0","0","24","32","0",NA,NA,NA,NA,"27.4",NA,"2","0","1","0"
+"235","Thomas Müller","Germany","Bayern","Forward","31","4","292",NA,"3",NA,NA,NA,NA,"0","0","111","139","0",NA,NA,NA,NA,"29.5",NA,"6","0","1","3"
+"236","Maarten Stekelenburg","Netherlands","Ajax","Goalkeeper","38","4","360","8","0","4","6","0","2","0","0","93","131",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"237","Joël Veltman","Netherlands","Brighton","Defender","29","1","2",NA,"0",NA,NA,NA,NA,"0","0","7","8","0","0","1","0","0","23.2","0.8",NA,NA,NA,NA
+"238","Matthijs de Ligt","Netherlands","Juventus","Defender","21","3","232",NA,"3",NA,NA,NA,NA,"0","1","128","139","0","3","18","8","2","30.6","26.4",NA,NA,NA,NA
+"239","Nathan Aké","Netherlands","Man. City","Defender","26","2","52",NA,"0",NA,NA,NA,NA,"0","0","33","35","0","1","2","2","0","26.3","6.5",NA,NA,NA,NA
+"240","Owen Wijndal","Netherlands","AZ Alkmaar","Defender","21","2","52",NA,"1",NA,NA,NA,NA,"0","0","17","22","0","0","1","1","0","29.5","7.2",NA,NA,NA,NA
+"241","Stefan de Vrij","Netherlands","Internazionale","Defender","29","4","315",NA,"4",NA,NA,NA,NA,"0","0","176","201","0","3","38","7","2","29.7","33.2",NA,NA,NA,NA
+"242","Patrick van Aanholt","Netherlands","Crystal Palace","Defender","30","4","299",NA,"4",NA,NA,NA,NA,"0","0","120","156","0","1","13","2","0","32.6","32.5",NA,NA,NA,NA
+"243","Daley Blind","Netherlands","Ajax","Defender","31","4","299",NA,"1",NA,NA,NA,NA,"0","0","281","312","0","4","29","7","1","29","30.9",NA,NA,NA,NA
+"244","Denzel Dumfries","Netherlands","PSV","Defender","25","4","315",NA,"3",NA,NA,NA,NA,"1","0","66","90","2","3","6","0","1","32.8","35.8",NA,NA,NA,NA
+"245","Georginio Wijnaldum","Netherlands","Liverpool","Midfielder","30","4","360",NA,"4",NA,NA,NA,NA,"0","0","107","120","3","2","17",NA,NA,"31.3","41.2","10","0",NA,NA
+"246","Quincy Promes","Netherlands","Spartak Moskva","Midfielder","29","2","57",NA,"2",NA,NA,NA,NA,"0","0","31","40","0","0","0",NA,NA,"31","7.7","1","0",NA,NA
+"247","Marten de Roon","Netherlands","Atalanta","Midfielder","30","3","237",NA,"2",NA,NA,NA,NA,"1","0","131","158","0","3","16",NA,NA,"29.5","26.6","1","0",NA,NA
+"248","Ryan Gravenberch","Netherlands","Ajax","Midfielder","19","2","106",NA,"0",NA,NA,NA,NA,"0","0","80","96","0","1","6",NA,NA,"30.4","13.5","2","0",NA,NA
+"249","Frenkie de Jong","Netherlands","Barcelona","Midfielder","24","4","348",NA,"2",NA,NA,NA,NA,"1","0","239","271","0","7","24",NA,NA,"29","40.8","0","0",NA,NA
+"250","Jurriën Timber","Netherlands","Ajax","Midfielder","20","3","142",NA,"1",NA,NA,NA,NA,"0","0","105","112","0","1","16",NA,NA,"28.4","15","1","0",NA,NA
+"251","Steven Berghuis","Netherlands","Feyenoord","Forward","29","2","54",NA,"1",NA,NA,NA,NA,"0","0","18","32","0",NA,NA,NA,NA,"29.5",NA,"1","0","0","2"
+"252","Luuk de Jong","Netherlands","Sevilla","Forward","30","2","10",NA,"0",NA,NA,NA,NA,"0","0","9","12","0",NA,NA,NA,NA,"26.8",NA,"0","0","0","1"
+"253","Memphis Depay","Netherlands","Lyon","Forward","27","4","327",NA,"3",NA,NA,NA,NA,"0","0","126","171","2",NA,NA,NA,NA,"30.8",NA,"12","2","4","8"
+"254","Donyell Malen","Netherlands","PSV","Forward","22","4","150",NA,"1",NA,NA,NA,NA,"0","0","45","53","0",NA,NA,NA,NA,"31.3",NA,"3","2","0","3"
+"255","Wout Weghorst","Netherlands","Wolfsburg","Forward","28","4","193",NA,"7",NA,NA,NA,NA,"0","0","33","51","1",NA,NA,NA,NA,"29.2",NA,"6","0","2","2"
+"256","Cody Gakpo","Netherlands","PSV","Forward","22","1","12",NA,"1",NA,NA,NA,NA,"0","0","4","6","0",NA,NA,NA,NA,"33.6",NA,"0","0","0","0"
+"257","Rui Patrício","Portugal","Wolves","Goalkeeper","33","4","360","11","0","7","13","1","1","0","0","82","99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"258","Nélson Semedo","Portugal","Wolves","Defender","27","3","259",NA,"3",NA,NA,NA,NA,"0","0","123","146","0","5","15","3","1","32","26.8",NA,NA,NA,NA
+"259","Pepe","Portugal","Porto","Defender","38","4","360",NA,"2",NA,NA,NA,NA,"1","0","253","282","0","4","28","7","0","30.6","37.1",NA,NA,NA,NA
+"260","Rúben Dias","Portugal","Man. City","Defender","24","4","360",NA,"4",NA,NA,NA,NA,"1","0","304","327","0","5","24","7","2","31.3","39.3",NA,NA,NA,NA
+"261","Raphaël Guerreiro","Portugal","Dortmund","Defender","27","4","360",NA,"2",NA,NA,NA,NA,"0","0","226","252","1","4","18","1","0","26.6","39.9",NA,NA,NA,NA
+"262","Diogo Dalot","Portugal","Man. United","Defender","22","2","101",NA,"1",NA,NA,NA,NA,"1","0","61","72","0","2","6","0","1","28.6","11.2",NA,NA,NA,NA
+"263","João Moutinho","Portugal","Wolves","Midfielder","34","4","154",NA,"1",NA,NA,NA,NA,"0","0","104","111","0","4","5",NA,NA,"23.6","19.1","3","0",NA,NA
+"264","Bernardo Silva","Portugal","Man. City","Midfielder","26","4","243",NA,"5",NA,NA,NA,NA,"0","0","88","108","0","9","15",NA,NA,"29","27.9","0","0",NA,NA
+"265","Bruno Fernandes","Portugal","Man. United","Midfielder","26","4","206",NA,"1",NA,NA,NA,NA,"0","0","79","100","0","0","3",NA,NA,"29","23.9","4","0",NA,NA
+"266","Danilo","Portugal","Paris","Midfielder","29","4","237",NA,"4",NA,NA,NA,NA,"0","0","125","133","0","2","14",NA,NA,"27","26.7","1","0",NA,NA
+"267","William Carvalho","Portugal","Betis","Midfielder","29","2","139",NA,"2",NA,NA,NA,NA,"0","0","87","98","0","2","4",NA,NA,"29.7","16.2","0","0",NA,NA
+"268","Renato Sanches","Portugal","LOSC","Midfielder","23","4","220",NA,"4",NA,NA,NA,NA,"0","0","178","193","0","0","10",NA,NA,"29","24.8","4","0",NA,NA
+"269","Rúben Neves","Portugal","Wolves","Midfielder","24","1","18",NA,"0",NA,NA,NA,NA,"0","0","9","9","0","0","2",NA,NA,"25.2","2.6","0","0",NA,NA
+"270","Sérgio Oliveira","Portugal","Porto","Midfielder","29","2","14",NA,"2",NA,NA,NA,NA,"0","0","17","22","0","1","0",NA,NA,"22.5","3.2","0","0",NA,NA
+"271","João Palhinha","Portugal","Sporting CP","Midfielder","25","2","123",NA,"2",NA,NA,NA,NA,"1","0","57","61","0","9","8",NA,NA,"28.1","13.9","5","0",NA,NA
+"272","Cristiano Ronaldo","Portugal","Juventus","Forward","36","4","360",NA,"0",NA,NA,NA,NA,"0","0","113","130","5",NA,NA,NA,NA,"29.7",NA,"16","1","8","9"
+"273","André Silva","Portugal","Frankfurt","Forward","25","3","36",NA,"0",NA,NA,NA,NA,"0","0","9","10","0",NA,NA,NA,NA,"30.4",NA,"3","0","1","0"
+"274","Rafa Silva","Portugal","Benfica","Forward","28","2","51",NA,"1",NA,NA,NA,NA,"0","0","31","37","0",NA,NA,NA,NA,"32.8",NA,"0","2","0","3"
+"275","Diogo Jota","Portugal","Liverpool","Forward","24","4","324",NA,"4",NA,NA,NA,NA,"0","0","92","115","1",NA,NA,NA,NA,"31.7",NA,"8","1","3","5"
+"276","João Félix","Portugal","Atlético","Forward","21","1","35",NA,"0",NA,NA,NA,NA,"0","0","17","21","0",NA,NA,NA,NA,"30.4",NA,"3","0","1","2"
+"277","Robin Olsen","Sweden","Roma","Goalkeeper","31","4","390","12","0","4","18","3","2","0","0","55","114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"278","Mikael Lustig","Sweden","AIK","Defender","34","4","316",NA,"3",NA,NA,NA,NA,"1","0","106","152","0","2","10","8","3","31","35.1",NA,NA,NA,NA
+"279","Victor Lindelöf","Sweden","Man. United","Defender","26","4","390",NA,"0",NA,NA,NA,NA,"0","0","190","207","0","0","25","15","4","29.2","41.9",NA,NA,NA,NA
+"280","Pierre Bengtsson","Sweden","Copenhagen","Defender","33","3","45",NA,"1",NA,NA,NA,NA,"0","0","7","12","0","0","2","3","0","30.6","7.2",NA,NA,NA,NA
+"281","Ludwig Augustinsson","Sweden","Bremen","Defender","27","4","351",NA,"2",NA,NA,NA,NA,"0","0","63","101","0","1","17","12","0","29.2","40.2",NA,NA,NA,NA
+"282","Filip Helander","Sweden","Rangers","Defender","28","1","19",NA,"1",NA,NA,NA,NA,"0","0","3","3","0","0","2","1","0","22","2.3",NA,NA,NA,NA
+"283","Emil Krafth","Sweden","Newcastle","Defender","26","4","75",NA,"1",NA,NA,NA,NA,"0","0","13","20","0","0","1","2","2","28.6","9.5",NA,NA,NA,NA
+"284","Marcus Danielson","Sweden","Dalian Pro","Defender","32","4","368",NA,"3",NA,NA,NA,NA,"1","1","134","157","0","4","25","27","2","28.6","40.4",NA,NA,NA,NA
+"285","Sebastian Larsson","Sweden","AIK","Midfielder","36","4","367",NA,"3",NA,NA,NA,NA,"0","0","94","120","0","6","16",NA,NA,"29.7","44.4","4","0",NA,NA
+"286","Albin Ekdal","Sweden","Sampdoria","Midfielder","31","4","388",NA,"9",NA,NA,NA,NA,"0","0","121","137","0","8","24",NA,NA,"27.7","47.2","2","0",NA,NA
+"287","Emil Forsberg","Sweden","Leipzig","Midfielder","29","4","371",NA,"5",NA,NA,NA,NA,"1","0","120","147","4","2","7",NA,NA,"29","41.4","14","0",NA,NA
+"288","Gustav Svensson","Sweden","Guangzhou","Midfielder","34","1","2",NA,"0",NA,NA,NA,NA,"0","0","0","0","0","0","0",NA,NA,"19.7","0.9","0","0",NA,NA
+"289","Viktor Claesson","Sweden","Krasnodar","Midfielder","29","4","82",NA,"1",NA,NA,NA,NA,"0","0","12","21","1","2","3",NA,NA,"27.9","12.7","2","0",NA,NA
+"290","Kristoffer Olsson","Sweden","Krasnodar","Midfielder","26","4","339",NA,"4",NA,NA,NA,NA,"1","0","135","163","0","6","8",NA,NA,"29.9","42","1","0",NA,NA
+"291","Dejan Kulusevski","Sweden","Juventus","Midfielder","21","2","132",NA,"2",NA,NA,NA,NA,"1","0","33","42","0","2","3",NA,NA,"29.2","17","3","2",NA,NA
+"292","Robin Quaison","Sweden","Mainz","Midfielder","27","4","125",NA,"6",NA,NA,NA,NA,"0","0","8","18","0","2","1",NA,NA,"29","16.1","1","0",NA,NA
+"293","Jens-Lys Cajuste","Sweden","Midtjylland","Midfielder","21","1","6",NA,"0",NA,NA,NA,NA,"0","0","1","2","0","1","1",NA,NA,"24.8","1.8","0","0",NA,NA
+"294","Marcus Berg","Sweden","Krasnodar","Forward","34","4","178",NA,"6",NA,NA,NA,NA,"0","0","24","40","0",NA,NA,NA,NA,"28.6",NA,"2","0","0","3"
+"295","Alexander Isak","Sweden","Real Sociedad","Forward","21","4","324",NA,"4",NA,NA,NA,NA,"0","0","53","66","0",NA,NA,NA,NA,"32",NA,"7","1","1","1"
+"296","Georgiy Bushchan","Ukraine","Dynamo Kyiv","Goalkeeper","27","4","390","13","0","6","16","3","0","0","0","84","118",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"297","Eduard Sobol","Ukraine","Club Brugge","Defender","26","1","1",NA,"0",NA,NA,NA,NA,"0","0","0","0","0","0","0","0","0","25.9","0.6",NA,NA,NA,NA
+"298","Serhiy Kryvtsov","Ukraine","Shakhtar Donetsk","Defender","30","1","120",NA,"0",NA,NA,NA,NA,"0","0","85","87","0","0","7","7","0","22.1","12.3",NA,NA,NA,NA
+"299","Illia Zabarnyi","Ukraine","Dynamo Kyiv","Defender","18","4","390",NA,"1",NA,NA,NA,NA,"0","0","239","263","0","2","29","9","6","28.8","40.4",NA,NA,NA,NA
+"300","Vitaliy Mykolenko","Ukraine","Dynamo Kyiv","Defender","22","3","265",NA,"0",NA,NA,NA,NA,"0","0","99","116","0","5","13","7","0","31.3","28.1",NA,NA,NA,NA
+"301","Oleksandr Zinchenko","Ukraine","Man. City","Defender","24","4","390",NA,"2",NA,NA,NA,NA,"0","0","183","221","1","3","19","9","1","29","43.6",NA,NA,NA,NA
+"302","Oleksandr Karavaev","Ukraine","Dynamo Kyiv","Defender","29","4","390",NA,"2",NA,NA,NA,NA,"0","0","164","204","0","6","30","4","0","31.3","43.2",NA,NA,NA,NA
+"303","Mykola Matviyenko","Ukraine","Shakhtar Donetsk","Defender","25","4","390",NA,"4",NA,NA,NA,NA,"0","0","255","280","0","6","37","22","6","30.2","40.3",NA,NA,NA,NA
+"304","Serhiy Sydorchuk","Ukraine","Dynamo Kyiv","Midfielder","30","4","310",NA,"4",NA,NA,NA,NA,"1","0","137","154","0","4","12",NA,NA,"30.4","35.8","2","0",NA,NA
+"305","Taras Stepanenko","Ukraine","Shakhtar Donetsk","Midfielder","31","2","185",NA,"3",NA,NA,NA,NA,"0","0","83","97","0","5","14",NA,NA,"25.6","22.9","2","0",NA,NA
+"306","Ruslan Malinovskyi","Ukraine","Atalanta","Midfielder","28","4","283",NA,"5",NA,NA,NA,NA,"0","0","97","119","0","5","7",NA,NA,"30.8","31.1","10","1",NA,NA
+"307","Mykola Shaparenko","Ukraine","Dynamo Kyiv","Midfielder","22","4","233",NA,"2",NA,NA,NA,NA,"1","0","148","160","0","9","7",NA,NA,"28.8","29.3","2","0",NA,NA
+"308","Marlos","Ukraine","Shakhtar Donetsk","Midfielder","33","2","73",NA,"0",NA,NA,NA,NA,"0","0","27","31","0","0","0",NA,NA,"24.8","8.7","0","0",NA,NA
+"309","Yevhen Makarenko","Ukraine","Kortrijk","Midfielder","30","1","25",NA,"0",NA,NA,NA,NA,"0","0","25","27","0","0","3",NA,NA,"24.8","2.8","0","0",NA,NA
+"310","Viktor Tsygankov","Ukraine","Dynamo Kyiv","Midfielder","23","3","84",NA,"2",NA,NA,NA,NA,"0","0","38","49","0","2","1",NA,NA,"27.4","11.6","1","0",NA,NA
+"311","Roman Bezus","Ukraine","Gent","Midfielder","30","1","2",NA,"0",NA,NA,NA,NA,"0","0","1","1","0","1","0",NA,NA,"29","0.7","0","0",NA,NA
+"312","Oleksandr Zubkov","Ukraine","Ferencváros","Midfielder","24","1","13",NA,"1",NA,NA,NA,NA,"0","0","4","4","0","0","0",NA,NA,"0","1","0","0",NA,NA
+"313","Andriy Yarmolenko","Ukraine","West Ham","Forward","31","4","355",NA,"3",NA,NA,NA,NA,"1","0","94","119","2",NA,NA,NA,NA,"30.4",NA,"10","2","5","6"
+"314","Roman Yaremchuk","Ukraine","Gent","Forward","25","4","340",NA,"4",NA,NA,NA,NA,"0","0","73","86","2",NA,NA,NA,NA,"30.8",NA,"9","1","5","1"
+"315","Artem Besedin","Ukraine","Dynamo Kyiv","Forward","25","3","36",NA,"0",NA,NA,NA,NA,"0","0","8","10","0",NA,NA,NA,NA,"29.5",NA,"0","0","0","2"
+"316","Artem Dovbyk","Ukraine","Dnipro-1","Forward","24","1","15",NA,"1",NA,NA,NA,NA,"1","0","3","4","1",NA,NA,NA,NA,"25.4",NA,"2","0","1","0"
+"317","Danny Ward","Wales","Leicester","Goalkeeper","28","4","360","18","0","6","10","1","1","0","0","74","118",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"318","Chris Gunter","Wales","Charlton","Defender","31","1","90",NA,"2",NA,NA,NA,NA,"1","0","23","27","0","2","1","4","0","27.9","8.7",NA,NA,NA,NA
+"319","Neco Williams","Wales","Liverpool","Defender","20","3","137",NA,"0",NA,NA,NA,NA,"0","0","52","64","0","2","3","2","0","29.7","14.5",NA,NA,NA,NA
+"320","Ben Davies","Wales","Tottenham","Defender","28","4","274",NA,"3",NA,NA,NA,NA,"1","0","71","98","0","3","15","9","5","27.7","28.4",NA,NA,NA,NA
+"321","Joe Rodon","Wales","Tottenham","Defender","23","4","360",NA,"2",NA,NA,NA,NA,"1","0","107","125","0","1","19","18","5","31.5","35.8",NA,NA,NA,NA
+"322","Connor Roberts","Wales","Swansea","Defender","25","4","310",NA,"0",NA,NA,NA,NA,"0","0","82","99","1","0","14","7","3","32.8","34.2",NA,NA,NA,NA
+"323","Ethan Ampadu","Wales","Chelsea","Defender","20","3","73",NA,"2",NA,NA,NA,NA,"0","1","28","32","0","4","4","2","0","25.4","8.3",NA,NA,NA,NA
+"324","Chris Mepham","Wales","Bournemouth","Defender","23","3","270",NA,"2",NA,NA,NA,NA,"1","0","78","92","0","7","24","11","3","30.4","25.9",NA,NA,NA,NA
+"325","Joe Allen","Wales","Stoke","Midfielder","31","4","339",NA,"5",NA,NA,NA,NA,"1","0","118","133","0","6","11",NA,NA,"29.2","38.2","2","0",NA,NA
+"326","Harry Wilson","Wales","Liverpool","Midfielder","24","3","52",NA,"1",NA,NA,NA,NA,"0","1","12","15","0","1","2",NA,NA,"29.2","6.6","1","0",NA,NA
+"327","Aaron Ramsey","Wales","Juventus","Midfielder","30","4","354",NA,"5",NA,NA,NA,NA,"0","0","130","158","1","4","12",NA,NA,"29.7","42","7","0",NA,NA
+"328","Joe Morrell","Wales","Luton","Midfielder","24","4","299",NA,"4",NA,NA,NA,NA,"0","0","100","114","0","6","17",NA,NA,"27.9","34.3","1","1",NA,NA
+"329","David Brooks","Wales","Bournemouth","Midfielder","23","3","31",NA,"1",NA,NA,NA,NA,"1","0","6","9","0","1","0",NA,NA,"27.7","4.1","0","0",NA,NA
+"330","Daniel James","Wales","Man. United","Midfielder","23","4","316",NA,"2",NA,NA,NA,NA,"0","0","54","68","0","5","6",NA,NA,"33.5","31.6","4","0",NA,NA
+"331","Dylan Levitt","Wales","Man. United","Midfielder","20","1","4",NA,"0",NA,NA,NA,NA,"0","0","0","0","0","0","0",NA,NA,"23.6","0.9","0","0",NA,NA
+"332","Tyler Roberts","Wales","Leeds","Forward","22","1","12",NA,"0",NA,NA,NA,NA,"0","0","6","6","0",NA,NA,NA,NA,"24.3",NA,"0","0","0","0"
+"333","Gareth Bale","Wales","Real Madrid","Forward","31","4","356",NA,"3",NA,NA,NA,NA,"1","0","66","94","0",NA,NA,NA,NA,"32",NA,"9","2","2","6"
+"334","Kieffer Moore","Wales","Cardiff","Forward","28","4","288",NA,"5",NA,NA,NA,NA,"2","0","29","47","1",NA,NA,NA,NA,"32.2",NA,"7","0","2","9"
+"335","Lukas Hradecky","Finland","Leverkusen","Goalkeeper","31","3","270","14","0","3","14","1","1","0","0","67","113",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"336","Paulus Arajuuri","Finland","Pafos","Defender","33","3","270",NA,"2",NA,NA,NA,NA,"0","0","78","85","0","6","17","16","6","27.2","26.7",NA,NA,NA,NA
+"337","Daniel O'Shaughnessy","Finland","HJK","Defender","26","3","270",NA,"1",NA,NA,NA,NA,"1","0","105","129","0","2","15","14","3","28.8","28.5",NA,NA,NA,NA
+"338","Joona Toivio","Finland","Häcken","Defender","33","3","265",NA,"0",NA,NA,NA,NA,"0","0","89","110","0","5","17","16","1","28.6","27.2",NA,NA,NA,NA
+"339","Leo Väisänen","Finland","Elfsborg","Defender","23","1","1",NA,"0",NA,NA,NA,NA,"0","0","0","0","0","0","0","0","0","17.7","0.5",NA,NA,NA,NA
+"340","Jere Uronen","Finland","Genk","Defender","26","3","250",NA,"2",NA,NA,NA,NA,"0","0","76","91","0","2","11","13","0","29.7","28.2",NA,NA,NA,NA
+"341","Jukka Raitala","Finland","Minnesota","Defender","32","3","254",NA,"5",NA,NA,NA,NA,"0","0","61","78","0","6","5","9","2","31.5","25.9",NA,NA,NA,NA
+"342","Glen Kamara","Finland","Rangers","Midfielder","25","3","270",NA,"3",NA,NA,NA,NA,"1","0","151","164","0","4","13",NA,NA,"29.9","29.3","1","0",NA,NA
+"343","Robin Lod","Finland","Minnesota","Midfielder","28","3","269",NA,"3",NA,NA,NA,NA,"1","0","79","103","0","2","11",NA,NA,"29.7","32.6","2","0",NA,NA
+"344","Fredrik Jensen","Finland","Augsburg","Midfielder","23","2","6",NA,"0",NA,NA,NA,NA,"0","0","1","1","0","0","0",NA,NA,"25.4","1.8","0","0",NA,NA
+"345","Rasmus Schüller","Finland","Djurgården","Midfielder","30","3","112",NA,"1",NA,NA,NA,NA,"0","0","43","55","0","7","17",NA,NA,"25.4","15.8","0","0",NA,NA
+"346","Pyry Soiri","Finland","Esbjerg","Midfielder","26","1","15",NA,"0",NA,NA,NA,NA,"0","0","10","10","0","0","3",NA,NA,"24.5","2.4","0","0",NA,NA
+"347","Tim Sparv","Finland","Larissa","Midfielder","34","2","135",NA,"2",NA,NA,NA,NA,"1","0","60","67","0","2","7",NA,NA,"28.1","16.2","0","0",NA,NA
+"348","Nikolai Alho","Finland","MTK","Midfielder","28","1","20",NA,"0",NA,NA,NA,NA,"0","0","5","8","0","0","1",NA,NA,"23.6","2.6","1","0",NA,NA
+"349","Joni Kauko","Finland","Esbjerg","Midfielder","30","3","57",NA,"2",NA,NA,NA,NA,"0","0","23","29","0","0","0",NA,NA,"25","7.9","2","0",NA,NA
+"350","Teemu Pukki","Finland","Norwich","Forward","31","3","240",NA,"4",NA,NA,NA,NA,"0","0","35","47","0",NA,NA,NA,NA,"33.3",NA,"4","0","1","2"
+"351","Joel Pohjanpalo","Finland","Leverkusen","Forward","26","3","244",NA,"4",NA,NA,NA,NA,"0","0","31","50","1",NA,NA,NA,NA,"28.8",NA,"7","0","1","2"
+"352","Lassi Lappalainen","Finland","Montreal","Forward","22","1","15",NA,"0",NA,NA,NA,NA,"0","0","3","4","0",NA,NA,NA,NA,"32.2",NA,"0","0","0","0"
+"353","Marcus Forss","Finland","Brentford","Forward","22","2","7",NA,"1",NA,NA,NA,NA,"0","0","0","2","0",NA,NA,NA,NA,"27.7",NA,"0","0","0","0"
+"354","Péter Gulácsi","Hungary","Leipzig","Goalkeeper","31","3","270","11","0","6","7","3","0","0","0","77","94",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"355","Attila Szalai","Hungary","Fenerbahçe","Defender","23","3","270",NA,"3",NA,NA,NA,NA,"0","0","101","129","0","2","17","12","0","31.3","29.1",NA,NA,NA,NA
+"356","Attila Fiola","Hungary","Fehérvár","Defender","31","3","266",NA,"9",NA,NA,NA,NA,"1","0","51","68","1","11","19","6","1","31.5","29.1",NA,NA,NA,NA
+"357","Willi Orbán","Hungary","Leipzig","Defender","28","3","270",NA,"1",NA,NA,NA,NA,"1","0","81","96","0","3","15","11","2","28.8","27.7",NA,NA,NA,NA
+"358","Loïc Négo","Hungary","Fehérvár","Defender","30","3","205",NA,"2",NA,NA,NA,NA,"1","0","42","56","0","3","6","2","0","33.8","23.8",NA,NA,NA,NA
+"359","Gergő Lovrencsics","Hungary","Ferencváros","Defender","32","3","98",NA,"1",NA,NA,NA,NA,"0","0","23","33","0","2","5","6","0","29.7","11.7",NA,NA,NA,NA
+"360","Endre Botka","Hungary","Ferencváros","Defender","26","3","270",NA,"4",NA,NA,NA,NA,"2","0","49","71","0","11","18","10","1","31.5","27.4",NA,NA,NA,NA
+"361","Ádám Nagy","Hungary","Bristol City","Midfielder","26","3","268",NA,"2",NA,NA,NA,NA,"0","0","99","120","0","4","24",NA,NA,"28.1","34.8","0","0",NA,NA
+"362","Tamás Cseri","Hungary","Mezőkövesd","Midfielder","33","1","15",NA,"0",NA,NA,NA,NA,"0","0","1","1","0","1","1",NA,NA,"25.6","2.3","0","0",NA,NA
+"363","András Schäfer","Hungary","Dunajská Streda","Midfielder","22","3","230",NA,"4",NA,NA,NA,NA,"0","0","57","65","1","7","12",NA,NA,"29.9","30.4","2","0",NA,NA
+"364","László Kleinheisler","Hungary","Osijek","Midfielder","27","3","250",NA,"1",NA,NA,NA,NA,"0","0","51","69","0","5","14",NA,NA,"30.8","27.8","1","0",NA,NA
+"365","Roland Varga","Hungary","MTK","Midfielder","31","1","2",NA,"0",NA,NA,NA,NA,"0","0","1","3","0","0","0",NA,NA,"23.8","0.2","0","0",NA,NA
+"366","Dávid Sigér","Hungary","Ferencváros","Midfielder","30","1","12",NA,"0",NA,NA,NA,NA,"0","0","4","6","0","0","1",NA,NA,"25","2.1","0","0",NA,NA
+"367","Kevin Varga","Hungary","Kasımpaşa","Midfielder","25","2","10",NA,"0",NA,NA,NA,NA,"0","0","3","4","0","0","1",NA,NA,"26.3","2.3","0","0",NA,NA
+"368","Ádám Szalai","Hungary","Mainz","Forward","33","3","198",NA,"4",NA,NA,NA,NA,"1","0","25","39","1",NA,NA,NA,NA,"26.1",NA,"5","1","4","7"
+"369","Roland Sallai","Hungary","Freiburg","Forward","24","3","242",NA,"5",NA,NA,NA,NA,"0","0","37","49","0",NA,NA,NA,NA,"29.2",NA,"8","2","3","8"
+"370","Nemanja Nikolić","Hungary","Fehérvár","Forward","33","2","66",NA,"1",NA,NA,NA,NA,"0","0","13","17","0",NA,NA,NA,NA,"29",NA,"0","0","0","0"
+"371","Szabolcs Schön","Hungary","FC Dallas","Forward","20","2","28",NA,"0",NA,NA,NA,NA,"0","0","5","6","0",NA,NA,NA,NA,"27.4",NA,"0","0","0","0"
+"372","Stole Dimitrievski","North Macedonia","Rayo Vallecano","Goalkeeper","27","3","270","14","0","8","9","9","0","0","0","74","98",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"373","Egzon Bejtulai","North Macedonia","Shkëndija","Defender","27","1","27",NA,"0",NA,NA,NA,NA,"0","0","4","9","0","0","0","0","0","30.2","3.3",NA,NA,NA,NA
+"374","Kire Ristevski","North Macedonia","Újpest","Defender","30","1","5",NA,"0",NA,NA,NA,NA,"0","0","7","7","0","0","1","0","0","21.8","1.2",NA,NA,NA,NA
+"375","Visar Musliu","North Macedonia","Fehérvár","Defender","26","3","266",NA,"5",NA,NA,NA,NA,"1","0","101","111","0","2","22","4","2","29.9","27.6",NA,NA,NA,NA
+"376","Stefan Ristovski","North Macedonia","Dinamo Zagreb","Defender","29","3","270",NA,"3",NA,NA,NA,NA,"1","0","115","143","0","3","20","11","0","30.2","30.5",NA,NA,NA,NA
+"377","Darko Velkoski","North Macedonia","Rijeka","Defender","26","3","265",NA,"4",NA,NA,NA,NA,"1","0","109","129","0","7","22","8","4","27.9","26.6",NA,NA,NA,NA
+"378","Arijan Ademi","North Macedonia","Dinamo Zagreb","Midfielder","30","3","253",NA,"0",NA,NA,NA,NA,"0","0","94","106","0","2","16",NA,NA,"29.2","27.7","1","0",NA,NA
+"379","Ezgjan Alioski","North Macedonia","Leeds","Midfielder","29","3","270",NA,"5",NA,NA,NA,NA,"2","0","94","135","1","6","7",NA,NA,"31","29.9","3","0",NA,NA
+"380","Ferhan Hasani","North Macedonia","Partizani","Midfielder","31","1","22",NA,"0",NA,NA,NA,NA,"0","0","6","8","0","1","2",NA,NA,"25.4","3.2","0","0",NA,NA
+"381","Tihomir Kostadinov","North Macedonia","Ružomberok","Midfielder","25","2","49",NA,"1",NA,NA,NA,NA,"1","0","15","19","0","4","2",NA,NA,"26.1","7.8","0","0",NA,NA
+"382","Boban Nikolov","North Macedonia","Lecce","Midfielder","26","3","120",NA,"0",NA,NA,NA,NA,"0","0","19","29","0","1","3",NA,NA,"31.3","13.2","4","0",NA,NA
+"383","Enis Bardi","North Macedonia","Levante","Midfielder","25","3","237",NA,"2",NA,NA,NA,NA,"0","0","96","121","0","3","13",NA,NA,"27.7","27","5","0",NA,NA
+"384","Stefan Spirovski","North Macedonia","AEK Larnaca","Midfielder","30","1","45",NA,"1",NA,NA,NA,NA,"0","0","13","14","0","3","3",NA,NA,"26.5","5.2","0","0",NA,NA
+"385","Eljif Elmas","North Macedonia","Napoli","Midfielder","21","3","270",NA,"2",NA,NA,NA,NA,"0","0","96","111","0","3","9",NA,NA,"29.9","32","6","0",NA,NA
+"386","Darko Churlinov","North Macedonia","Stuttgart","Midfielder","20","2","79",NA,"0",NA,NA,NA,NA,"0","0","12","17","0","0","4",NA,NA,"31.3","10","0","0",NA,NA
+"387","Milan Ristovski","North Macedonia","Spartak Trnava","Midfielder","23","1","4",NA,"0",NA,NA,NA,NA,"0","0","2","2","0","0","1",NA,NA,"25.7","0.9","0","0",NA,NA
+"388","Ivan Tričkovski","North Macedonia","AEK Larnaca","Forward","34","3","69",NA,"0",NA,NA,NA,NA,"0","0","16","22","0",NA,NA,NA,NA,"27",NA,"0","0","0","1"
+"389","Aleksandar Trajkovski","North Macedonia","Mallorca","Forward","28","3","176",NA,"7",NA,NA,NA,NA,"1","0","47","58","0",NA,NA,NA,NA,"29.5",NA,"6","0","2","0"
+"390","Goran Pandev","North Macedonia","Genoa","Forward","37","3","248",NA,"1",NA,NA,NA,NA,"0","0","44","67","1",NA,NA,NA,NA,"29.5",NA,"2","0","1","8"
+"391","Vlatko Stojanovski","North Macedonia","Chambly","Forward","24","1","12",NA,"0",NA,NA,NA,NA,"0","0","2","2","0",NA,NA,NA,NA,"27",NA,"1","0","0","0"
+"392","Daniel Avramovski","North Macedonia","Kayserispor","Forward","26","1","13",NA,"2",NA,NA,NA,NA,"1","0","4","4","0",NA,NA,NA,NA,"27",NA,"1","0","0","1"
+"393","Wojciech Szczęsny","Poland","Juventus","Goalkeeper","31","3","270","6","0","6","5","2","0","0","0","40","68",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"394","Jan Bednarek","Poland","Southampton","Defender","25","3","265",NA,"1",NA,NA,NA,NA,"0","0","145","161","0","5","18","10","2","29.9","28.2",NA,NA,NA,NA
+"395","Maciej Rybus","Poland","Lokomotiv Moskva","Defender","31","1","74",NA,"4",NA,NA,NA,NA,"0","0","31","35","0","1","3","1","1","29.9","8.5",NA,NA,NA,NA
+"396","Kamil Glik","Poland","Benevento","Defender","33","3","270",NA,"6",NA,NA,NA,NA,"1","0","125","141","0","5","22","11","1","26.1","27.4",NA,NA,NA,NA
+"397","Bartosz Bereszyński","Poland","Sampdoria","Defender","28","3","270",NA,"2",NA,NA,NA,NA,"0","0","145","178","0","6","19","9","1","31.5","29.1",NA,NA,NA,NA
+"398","Tymoteusz Puchacz","Poland","Lech","Defender","22","3","151",NA,"2",NA,NA,NA,NA,"0","0","27","43","0","2","10","2","0","31.3","16.1",NA,NA,NA,NA
+"399","Paweł Dawidowicz","Poland","Verona","Midfielder","26","1","5",NA,"0",NA,NA,NA,NA,"0","0","1","1","0","0","1",NA,NA,"21.6","1.2","0","0",NA,NA
+"400","Kacper Kozłowski","Poland","Pogoń","Midfielder","17","2","52",NA,"1",NA,NA,NA,NA,"0","0","14","17","0","2","3",NA,NA,"27.4","7.8","0","0",NA,NA
+"401","Karol Linetty","Poland","Torino","Midfielder","26","2","79",NA,"3",NA,NA,NA,NA,"0","0","25","33","1","3","3",NA,NA,"27.2","10","3","0",NA,NA
+"402","Grzegorz Krychowiak","Poland","Lokomotiv Moskva","Midfielder","31","2","140",NA,"4",NA,NA,NA,NA,"3","1","66","87","0","5","7",NA,NA,"30.6","16","4","0",NA,NA
+"403","Mateusz Klich","Poland","Leeds","Midfielder","31","3","213",NA,"4",NA,NA,NA,NA,"1","0","82","116","0","3","4",NA,NA,"29.9","25.8","1","0",NA,NA
+"404","Jakub Moder","Poland","Brighton","Midfielder","22","2","90",NA,"3",NA,NA,NA,NA,"1","0","19","29","0","2","4",NA,NA,"30.4","11","0","0",NA,NA
+"405","Przemysław Płacheta","Poland","Norwich","Midfielder","23","1","12",NA,"0",NA,NA,NA,NA,"0","0","6","9","0","0","0",NA,NA,"24.1","2","1","0",NA,NA
+"406","Przemysław Frankowski","Poland","Chicago Fire","Midfielder","26","3","83",NA,"1",NA,NA,NA,NA,"0","0","34","39","0","1","2",NA,NA,"30.2","11.8","0","1",NA,NA
+"407","Piotr Zieliński","Poland","Napoli","Midfielder","27","3","265",NA,"4",NA,NA,NA,NA,"0","0","100","123","0","2","13",NA,NA,"28.1","33","7","1",NA,NA
+"408","Kamil Jóźwiak","Poland","Derby","Midfielder","23","3","241",NA,"5",NA,NA,NA,NA,"1","0","84","111","0","7","13",NA,NA,"31.7","25.9","0","1",NA,NA
+"409","Robert Lewandowski","Poland","Bayern","Forward","32","3","270",NA,"5",NA,NA,NA,NA,"1","0","44","66","3",NA,NA,NA,NA,"31.3",NA,"12","0","4","3"
+"410","Karol Świderski","Poland","PAOK","Forward","24","3","163",NA,"0",NA,NA,NA,NA,"0","0","24","34","0",NA,NA,NA,NA,"28.1",NA,"5","0","1","2"
+"411","Jakub Świerczok","Poland","Ludogorets","Forward","28","1","29",NA,"1",NA,NA,NA,NA,"0","0","6","8","0",NA,NA,NA,NA,"26.5",NA,"1","0","0","0"
+"412","Anton Shunin","Russia","Dynamo Moscow","Goalkeeper","34","1","90","1","0","3","2","2","0","0","0","17","27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"413","Matvei Safonov","Russia","Krasnodar","Goalkeeper","22","2","180","7","0","4","8","3","1","0","0","37","51",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"414","Mário Fernandes","Russia","CSKA Moskva","Defender","30","3","206",NA,"0",NA,NA,NA,NA,"0","0","47","59","0","7","12","2","0","29.5","23.2",NA,NA,NA,NA
+"415","Igor Diveev","Russia","CSKA Moskva","Defender","21","3","225",NA,"3",NA,NA,NA,NA,"1","0","99","124","0","3","20","15","5","28.8","24.5",NA,NA,NA,NA
+"416","Vyacheslav Karavaev","Russia","Zenit","Defender","26","3","134",NA,"0",NA,NA,NA,NA,"0","0","38","50","0","0","8","3","0","32.2","18.5",NA,NA,NA,NA
+"417","Andrei Semenov","Russia","Akhmat","Defender","32","1","90",NA,"0",NA,NA,NA,NA,"0","0","44","54","0","0","9","1","1","30.2","9.9",NA,NA,NA,NA
+"418","Fedor Kudryashov","Russia","Antalyaspor","Defender","34","1","67",NA,"3",NA,NA,NA,NA,"1","0","15","19","0","0","7","0","0","25.4","6.6",NA,NA,NA,NA
+"419","Georgi Dzhikiya","Russia","Spartak Moskva","Defender","27","3","270",NA,"2",NA,NA,NA,NA,"1","0","115","127","0","4","8","8","3","27.9","27",NA,NA,NA,NA
+"420","Denis Cheryshev","Russia","Valencia","Midfielder","30","1","34",NA,"1",NA,NA,NA,NA,"0","0","2","3","0","1","2",NA,NA,"27.4","5","0","0",NA,NA
+"421","Magomed Ozdoev","Russia","Zenit","Midfielder","28","3","212",NA,"4",NA,NA,NA,NA,"1","0","76","97","0","8","13",NA,NA,"29.5","27.7","4","0",NA,NA
+"422","Dmitri Barinov","Russia","Lokomotiv Moskva","Midfielder","24","2","135",NA,"3",NA,NA,NA,NA,"1","0","83","102","0","5","10",NA,NA,"31","16.4","0","0",NA,NA
+"423","Roman Zobnin","Russia","Spartak Moskva","Midfielder","27","3","243",NA,"5",NA,NA,NA,NA,"0","0","94","119","0","8","21",NA,NA,"29.5","30.8","3","0",NA,NA
+"424","Aleksei Miranchuk","Russia","Atalanta","Midfielder","25","3","173",NA,"0",NA,NA,NA,NA,"0","0","47","57","1","1","5",NA,NA,"29.5","20.6","2","0",NA,NA
+"425","Aleksandr Golovin","Russia","Monaco","Midfielder","25","3","270",NA,"4",NA,NA,NA,NA,"0","0","99","128","0","2","8",NA,NA,"31.3","36","5","0",NA,NA
+"426","Yuri Zhirkov","Russia","Zenit","Midfielder","37","1","43",NA,"0",NA,NA,NA,NA,"0","0","14","17","0","0","1",NA,NA,"28.6","4.5","0","0",NA,NA
+"427","Rifat Zhemaletdinov","Russia","Lokomotiv Moskva","Midfielder","24","2","58",NA,"0",NA,NA,NA,NA,"0","0","15","20","0","1","2",NA,NA,"31.7","7.4","2","0",NA,NA
+"428","Daler Kuzyaev","Russia","Zenit","Midfielder","28","3","186",NA,"2",NA,NA,NA,NA,"0","0","81","99","0","1","11",NA,NA,"29","22.8","1","0",NA,NA
+"429","Maksim Mukhin","Russia","Lokomotiv Moskva","Midfielder","19","3","55",NA,"2",NA,NA,NA,NA,"0","0","15","20","0","2","2",NA,NA,"30.4","8.2","0","0",NA,NA
+"430","Aleksandr Sobolev","Russia","Spartak Moskva","Forward","24","2","35",NA,"1",NA,NA,NA,NA,"0","0","8","12","0",NA,NA,NA,NA,"24.8",NA,"0","0","0","2"
+"431","Artem Dzyuba","Russia","Zenit","Forward","32","3","265",NA,"8",NA,NA,NA,NA,"0","0","46","79","1",NA,NA,NA,NA,"30.2",NA,"5","1","2","3"
+"432","David Marshall","Scotland","Derby","Goalkeeper","36","3","270","10","0","5","7","0","1","0","0","61","105",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"433","Stephen O'Donnell","Scotland","Motherwell","Defender","29","3","253",NA,"4",NA,NA,NA,NA,"1","0","59","81","0","6","5","6","0","31.7","29.2",NA,NA,NA,NA
+"434","Andrew Robertson","Scotland","Liverpool","Defender","27","3","270",NA,"4",NA,NA,NA,NA,"0","0","105","134","0","2","13","5","0","32","28.9",NA,NA,NA,NA
+"435","Grant Hanley","Scotland","Norwich","Defender","29","3","213",NA,"1",NA,NA,NA,NA,"0","0","95","106","0","4","21","6","3","32.2","22",NA,NA,NA,NA
+"436","Kieran Tierney","Scotland","Arsenal","Defender","24","2","180",NA,"1",NA,NA,NA,NA,"0","0","70","84","0","1","5","7","0","29.5","18.9",NA,NA,NA,NA
+"437","Liam Cooper","Scotland","Leeds","Defender","29","1","90",NA,"0",NA,NA,NA,NA,"0","0","63","80","0","1","12","2","0","28.4","9.8",NA,NA,NA,NA
+"438","Nathan Patterson","Scotland","Rangers","Defender","19","1","6",NA,"0",NA,NA,NA,NA,"0","0","7","8","0","0","1","0","0","23.9","1.3",NA,NA,NA,NA
+"439","Jack Hendry","Scotland","Celtic","Defender","26","1","67",NA,"0",NA,NA,NA,NA,"0","0","20","24","0","0","3","1","0","28.1","7.2",NA,NA,NA,NA
+"440","Scott McKenna","Scotland","Nottm Forest","Defender","24","1","57",NA,"1",NA,NA,NA,NA,"1","0","14","18","0","1","3","1","0","27","6.6",NA,NA,NA,NA
+"441","Scott McTominay","Scotland","Man. United","Midfielder","24","3","270",NA,"1",NA,NA,NA,NA,"0","0","107","122","0","3","15",NA,NA,"32.2","32.1","4","0",NA,NA
+"442","John McGinn","Scotland","Aston Villa","Midfielder","26","3","270",NA,"3",NA,NA,NA,NA,"1","0","73","88","0","5","16",NA,NA,"28.1","31.4","7","0",NA,NA
+"443","Callum McGregor","Scotland","Celtic","Midfielder","28","3","203",NA,"1",NA,NA,NA,NA,"0","0","84","92","1","4","11",NA,NA,"29","26.9","2","0",NA,NA
+"444","Ryan Christie","Scotland","Celtic","Midfielder","26","1","45",NA,"0",NA,NA,NA,NA,"0","0","10","13","0","0","0",NA,NA,"27.9","5.5","0","0",NA,NA
+"445","Stuart Armstrong","Scotland","Southampton","Midfielder","29","3","151",NA,"2",NA,NA,NA,NA,"0","0","48","59","0","2","6",NA,NA,"29","19.2","2","0",NA,NA
+"446","Ryan Fraser","Scotland","Newcastle","Midfielder","27","2","43",NA,"0",NA,NA,NA,NA,"0","0","13","17","0","0","0",NA,NA,"26.8","5.5","3","0",NA,NA
+"447","Billy Gilmour","Scotland","Chelsea","Midfielder","20","1","76",NA,"2",NA,NA,NA,NA,"0","0","42","47","0","1","4",NA,NA,"27.9","9.3","0","0",NA,NA
+"448","James Forrest","Scotland","Celtic","Midfielder","29","1","11",NA,"0",NA,NA,NA,NA,"0","0","3","5","0","0","0",NA,NA,"27","2","1","0",NA,NA
+"449","Lyndon Dykes","Scotland","QPR","Forward","25","3","259",NA,"4",NA,NA,NA,NA,"0","0","19","41","0",NA,NA,NA,NA,"29.9",NA,"6","0","2","2"
+"450","Ché Adams","Scotland","Southampton","Forward","24","3","215",NA,"3",NA,NA,NA,NA,"0","0","44","53","0",NA,NA,NA,NA,"31.3",NA,"7","0","1","1"
+"451","Kevin Nisbet","Scotland","Hibernian","Forward","24","3","21",NA,"1",NA,NA,NA,NA,"0","0","4","7","0",NA,NA,NA,NA,"25",NA,"2","0","1","0"
+"452","Martin Dúbravka","Slovakia","Newcastle","Goalkeeper","32","3","270","11","1","7","12","3","0","1","0","81","116",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"453","Peter Pekarík","Slovakia","Hertha","Defender","34","3","233",NA,"2",NA,NA,NA,NA,"0","0","111","128","0","1","10","4","1","29.2","24.9",NA,NA,NA,NA
+"454","Ľubomír Šatka","Slovakia","Lech","Defender","25","3","270",NA,"0",NA,NA,NA,NA,"0","0","187","198","0","2","17","10","0","29.5","24.7",NA,NA,NA,NA
+"455","Milan Škriniar","Slovakia","Internazionale","Defender","26","3","270",NA,"3",NA,NA,NA,NA,"1","0","158","170","1","3","15","15","5","28.4","26.5",NA,NA,NA,NA
+"456","Tomáš Hubočan","Slovakia","Omonoia","Defender","35","3","264",NA,"5",NA,NA,NA,NA,"1","0","98","115","0","6","8","10","1","30.8","27.2",NA,NA,NA,NA
+"457","Dávid Hancko","Slovakia","Sparta Praha","Defender","23","1","6",NA,"0",NA,NA,NA,NA,"0","0","6","8","0","1","2","0","0","28.6","1.4",NA,NA,NA,NA
+"458","Martin Koscelník","Slovakia","Liberec","Defender","26","2","101",NA,"2",NA,NA,NA,NA,"0","0","31","37","0","2","7","0","0","29.7","11.3",NA,NA,NA,NA
+"459","Ján Greguš","Slovakia","Minnesota","Midfielder","30","1","1",NA,"1",NA,NA,NA,NA,"0","0","2","2","0","0","0",NA,NA,"24.1","0.5","0","0",NA,NA
+"460","Vladimír Weiss","Slovakia","Slovan Bratislava","Midfielder","31","2","34",NA,"1",NA,NA,NA,NA,"1","0","20","22","0","1","1",NA,NA,"23.9","4.7","1","0",NA,NA
+"461","Ondrej Duda","Slovakia","Köln","Midfielder","26","3","224",NA,"4",NA,NA,NA,NA,"2","0","66","84","0","5","3",NA,NA,"28.8","28.5","2","0",NA,NA
+"462","Tomáš Suslov","Slovakia","Groningen","Midfielder","19","2","24",NA,"0",NA,NA,NA,NA,"0","0","7","8","0","0","1",NA,NA,"26.6","3.9","0","0",NA,NA
+"463","László Bénes","Slovakia","Mönchengladbach","Midfielder","23","2","14",NA,"0",NA,NA,NA,NA,"0","0","11","13","0","0","1",NA,NA,"25.7","3.2","0","0",NA,NA
+"464","Patrik Hrošovský","Slovakia","Genk","Midfielder","29","2","95",NA,"0",NA,NA,NA,NA,"0","0","45","53","0","0","2",NA,NA,"26.1","11.2","0","0",NA,NA
+"465","Marek Hamšík","Slovakia","Göteborg","Midfielder","33","3","256",NA,"0",NA,NA,NA,NA,"0","0","137","154","0","2","6",NA,NA,"27.7","31.2","4","1",NA,NA
+"466","Lukáš Haraslín","Slovakia","Sassuolo","Midfielder","25","3","182",NA,"1",NA,NA,NA,NA,"0","0","29","36","0","2","8",NA,NA,"30.6","19.1","3","0",NA,NA
+"467","Juraj Kucka","Slovakia","Parma","Midfielder","34","3","270",NA,"10",NA,NA,NA,NA,"0","0","87","121","0","7","15",NA,NA,"29.9","32","5","0",NA,NA
+"468","Róbert Mak","Slovakia","Ferencváros","Midfielder","30","3","233",NA,"0",NA,NA,NA,NA,"0","0","49","62","0","2","2",NA,NA,"29.2","25.1","1","1",NA,NA
+"469","Stanislav Lobotka","Slovakia","Napoli","Midfielder","26","1","45",NA,"1",NA,NA,NA,NA,"0","0","25","26","0","1","0",NA,NA,"20.8","5.3","0","0",NA,NA
+"470","Jakub Hromada","Slovakia","Slavia Praha","Midfielder","25","2","124",NA,"3",NA,NA,NA,NA,"0","0","28","37","0","6","6",NA,NA,"26.5","15.4","0","0",NA,NA
+"471","Michal Ďuriš","Slovakia","Omonoia","Forward","33","3","54",NA,"0",NA,NA,NA,NA,"0","0","13","13","0",NA,NA,NA,NA,"27.2",NA,"2","0","0","0"
+"472","Uğurcan Çakır","Turkey","Trabzonspor","Goalkeeper","25","3","270","18","0","8","12","3","0","0","0","70","103",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"473","Zeki Çelik","Turkey","LOSC","Defender","24","3","270",NA,"6",NA,NA,NA,NA,"1","0","114","137","0","5","16","2","1","31.5","30.7",NA,NA,NA,NA
+"474","Merih Demiral","Turkey","Juventus","Defender","23","3","225",NA,"1",NA,NA,NA,NA,"0","0","118","133","0","1","16","16","2","29.7","24.1",NA,NA,NA,NA
+"475","Çağlar Söyüncü","Turkey","Leicester","Defender","25","3","270",NA,"6",NA,NA,NA,NA,"2","0","167","179","0","4","15","6","5","32","27.8",NA,NA,NA,NA
+"476","Umut Meraş","Turkey","Le Havre","Defender","25","2","162",NA,"2",NA,NA,NA,NA,"0","0","56","65","0","2","10","2","0","30.2","16.6",NA,NA,NA,NA
+"477","Kaan Ayhan","Turkey","Sassuolo","Defender","26","3","179",NA,"2",NA,NA,NA,NA,"0","0","119","132","0","2","6","5","0","30.4","20",NA,NA,NA,NA
+"478","Mert Müldür","Turkey","Sassuolo","Defender","22","2","108",NA,"1",NA,NA,NA,NA,"0","0","46","54","0","1","5","4","0","32.4","12.6",NA,NA,NA,NA
+"479","Okay Yokuşlu","Turkey","Celta","Midfielder","27","3","137",NA,"1",NA,NA,NA,NA,"0","0","64","69","0","4","12",NA,NA,"27.2","16.2","0","0",NA,NA
+"480","Ozan Tufan","Turkey","Fenerbahçe","Midfielder","26","3","172",NA,"1",NA,NA,NA,NA,"0","0","78","86","0","1","7",NA,NA,"30.8","19.8","2","0",NA,NA
+"481","Dorukhan Toköz","Turkey","Beşiktaş","Midfielder","25","1","4",NA,"1",NA,NA,NA,NA,"0","0","2","3","0","0","1",NA,NA,"29.5","1","0","0",NA,NA
+"482","Hakan Çalhanoğlu","Turkey","Milan","Midfielder","27","3","266",NA,"7",NA,NA,NA,NA,"2","0","117","142","0","6","5",NA,NA,"31.3","30.3","1","1",NA,NA
+"483","Orkun Kökçü","Turkey","Feyenoord","Midfielder","20","1","10",NA,"0",NA,NA,NA,NA,"0","0","4","5","0","0","0",NA,NA,"28.8","1.6","0","0",NA,NA
+"484","İrfan Can Kahveci","Turkey","Fenerbahçe","Midfielder","25","3","112",NA,"4",NA,NA,NA,NA,"0","0","54","70","1","2","6",NA,NA,"31.3","13.6","2","0",NA,NA
+"485","Halil Dervişoğlu","Turkey","Brentford","Midfielder","21","2","29",NA,"2",NA,NA,NA,NA,"1","0","3","5","0","2","0",NA,NA,"23.2","4.1","1","0",NA,NA
+"486","Cengiz Ünder","Turkey","Roma","Forward","23","3","208",NA,"3",NA,NA,NA,NA,"0","0","53","68","0",NA,NA,NA,NA,"32",NA,"8","0","1","3"
+"487","Kenan Karaman","Turkey","Düsseldorf","Forward","27","3","161",NA,"3",NA,NA,NA,NA,"0","0","25","38","0",NA,NA,NA,NA,"28.4",NA,"2","0","0","2"
+"488","Yusuf Yazıcı","Turkey","LOSC","Forward","24","3","117",NA,"1",NA,NA,NA,NA,"0","0","49","56","0",NA,NA,NA,NA,"29",NA,"1","0","0","2"
+"489","Burak Yılmaz","Turkey","LOSC","Forward","35","3","270",NA,"7",NA,NA,NA,NA,"1","0","48","64","0",NA,NA,NA,NA,"31.5",NA,"9","0","1","2"
